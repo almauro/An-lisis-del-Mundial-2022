@@ -1,0 +1,681 @@
+﻿player,team,player_id,Total_Tiros,Partidos_Jugados,Pases_Completados,Recuperaciones,Faltas_Recibidas,Tiros_por_Partido,Pases_por_Partido,Recuperaciones_por_Partido,Faltas_por_Partido,Participacion_Total,Participacion_Por_Partido,Indice_Peligro,Indice_Defensivo
+Lionel Andrés Messi Cuccittini,Argentina,5503.0,34,7,306,34,27,4.86,43.71,4.86,3.86,401,57.29,47,64
+Kylian Mbappé Lottin,France,3009.0,32,7,180,30,10,4.57,25.71,4.29,1.43,252,36.0,37,48
+Olivier Giroud,France,3604.0,17,6,49,3,4,2.83,8.17,0.5,0.67,73,12.17,19,7
+Ivan Perišić,Croatia,5474.0,16,7,214,22,0,2.29,30.57,3.14,0.0,252,36.0,16,43
+Lautaro Javier Martínez,Argentina,11456.0,15,6,46,6,7,2.5,7.67,1.0,1.17,74,12.33,18,10
+Harry Kane,England,10955.0,12,5,65,12,11,2.4,13.0,2.4,2.2,100,20.0,17,18
+Serge Gnabry,Germany,8400.0,12,3,85,19,2,4.0,28.33,6.33,0.67,118,39.33,13,27
+Neymar da Silva Santos Junior,Brazil,4320.0,12,3,123,13,16,4.0,41.0,4.33,5.33,164,54.67,20,25
+Robert Lewandowski,Poland,5668.0,12,4,65,12,10,3.0,16.25,3.0,2.5,99,24.75,17,18
+Daniel Olmo Carvajal,Spain,16532.0,12,4,160,20,7,3.0,40.0,5.0,1.75,199,49.75,15,36
+Youssef En-Nesyri,Morocco,6301.0,11,7,48,15,4,1.57,6.86,2.14,0.57,78,11.14,13,19
+Marcus Rashford,England,3318.0,11,5,49,6,1,2.2,9.8,1.2,0.2,67,13.4,11,10
+Cristiano Ronaldo dos Santos Aveiro,Portugal,5207.0,11,5,67,6,6,2.2,13.4,1.2,1.2,90,18.0,14,12
+Julián Álvarez,Argentina,29560.0,11,7,93,16,2,1.57,13.29,2.29,0.29,122,17.43,12,25
+Jamal Musiala,Germany,39565.0,11,3,94,22,6,3.67,31.33,7.33,2.0,133,44.33,14,31
+João Félix Sequeira,Portugal,12041.0,11,4,94,9,10,2.75,23.5,2.25,2.5,124,31.0,16,18
+Hakim Ziyech,Morocco,5237.0,11,7,210,28,10,1.57,30.0,4.0,1.43,259,37.0,16,49
+Marco Asensio Willemsen,Spain,5719.0,10,4,92,5,4,2.5,23.0,1.25,1.0,111,27.75,12,14
+Luis Gerardo Chávez Magallón,Mexico,28825.0,10,3,104,14,8,3.33,34.67,4.67,2.67,136,45.33,14,24
+Andrej Kramarić,Croatia,5460.0,10,7,151,13,4,1.43,21.57,1.86,0.57,178,25.43,12,28
+Aleksandar Mitrović,Serbia,4269.0,10,3,52,7,1,3.33,17.33,2.33,0.33,70,23.33,10,12
+Ismaïla Sarr,Senegal,2941.0,10,4,57,17,17,2.5,14.25,4.25,4.25,101,25.25,18,22
+Memphis Depay,Netherlands,2988.0,10,5,96,8,6,2.0,19.2,1.6,1.2,120,24.0,13,17
+Mislav Oršić,Croatia,16527.0,10,6,42,5,0,1.67,7.0,0.83,0.0,57,9.5,10,9
+Carlos Henrique Casimiro,Brazil,5539.0,10,4,217,15,4,2.5,54.25,3.75,1.0,246,61.5,12,36
+Christian Pulisic,United States,8246.0,9,4,84,20,12,2.25,21.0,5.0,3.0,125,31.25,15,28
+Takuma Asano,Japan,8949.0,9,4,22,8,0,2.25,5.5,2.0,0.0,39,9.75,9,10
+Ernesto Alexis Vega Rojas,Mexico,26301.0,9,3,38,16,6,3.0,12.67,5.33,2.0,69,23.0,12,19
+Vinícius José Paixão de Oliveira Júnior,Brazil,18395.0,9,4,70,15,7,2.25,17.5,3.75,1.75,101,25.25,12,22
+Adrien Rabiot,France,3026.0,9,6,246,24,6,1.5,41.0,4.0,1.0,285,47.5,12,48
+Youssef Msakni,Tunisia,23910.0,9,2,50,9,6,4.5,25.0,4.5,3.0,74,37.0,12,14
+Enner Remberto Valencia Lastra,Ecuador,28559.0,9,3,39,13,7,3.0,13.0,4.33,2.33,68,22.67,12,16
+Enzo Fernandez,Argentina,38718.0,9,7,416,31,7,1.29,59.43,4.43,1.0,463,66.14,12,72
+Heung-Min Son,South Korea,3083.0,9,4,84,14,6,2.25,21.0,3.5,1.5,113,28.25,12,22
+Raphael Dias Belloli,Brazil,10595.0,8,5,115,17,5,1.6,23.0,3.4,1.0,145,29.0,10,28
+Jonathan David,Canada,23640.0,8,3,43,9,2,2.67,14.33,3.0,0.67,62,20.67,9,13
+Boulaye Dia,Senegal,20611.0,8,4,39,9,4,2.0,9.75,2.25,1.0,60,15.0,10,12
+Ousmane Dembélé,France,5477.0,8,7,149,22,4,1.14,21.29,3.14,0.57,183,26.14,10,36
+Mohammed Kudus,Ghana,17033.0,8,3,61,28,6,2.67,20.33,9.33,2.0,103,34.33,11,34
+Gue-Sung Cho,South Korea,40542.0,8,4,39,8,7,2.0,9.75,2.0,1.75,62,15.5,11,11
+Bruno Miguel Borges Fernandes,Portugal,5204.0,8,4,186,15,8,2.0,46.5,3.75,2.0,217,54.25,12,33
+Richarlison de Andrade,Brazil,3280.0,8,4,39,18,6,2.0,9.75,4.5,1.5,71,17.75,11,21
+Álvaro Borja Morata Martín,Spain,3477.0,8,4,27,2,2,2.0,6.75,0.5,0.5,39,9.75,9,4
+Niclas Füllkrug,Germany,8546.0,8,3,16,1,1,2.67,5.33,0.33,0.33,26,8.67,8,2
+Marko Livaja,Croatia,22041.0,7,6,35,8,3,1.17,5.83,1.33,0.5,53,8.83,8,11
+Salem Mohammed Al Dawsari,Saudi Arabia,5187.0,7,3,92,17,3,2.33,30.67,5.67,1.0,119,39.67,8,26
+Sofiane Boufal,Morocco,3625.0,7,7,107,17,15,1.0,15.29,2.43,2.14,146,20.86,14,27
+Aurélien Djani Tchouaméni,France,10481.0,7,7,431,37,12,1.0,61.57,5.29,1.71,487,69.57,13,80
+Haji Wright,United States,22008.0,7,4,20,5,3,1.75,5.0,1.25,0.75,35,8.75,8,7
+Alexis Mac Allister,Argentina,27886.0,7,6,242,29,18,1.17,40.33,4.83,3.0,296,49.33,16,53
+Kevin De Bruyne,Belgium,3089.0,7,3,100,15,2,2.33,33.33,5.0,0.67,124,41.33,8,25
+Ángel Fabián Di María Hernández,Argentina,2995.0,7,5,126,11,7,1.4,25.2,2.2,1.4,151,30.2,10,23
+Mitchell Thomas Duke,Australia,33492.0,7,4,36,12,3,1.75,9.0,3.0,0.75,58,14.5,8,15
+Luka Modrić,Croatia,5463.0,7,7,463,39,17,1.0,66.14,5.57,2.43,526,75.14,15,85
+Gonçalo Matias Ramos,Portugal,38803.0,7,4,24,4,4,1.75,6.0,1.0,1.0,39,9.75,9,6
+Nikola Vlašić,Croatia,3441.0,7,6,43,9,6,1.17,7.17,1.5,1.0,65,10.83,10,13
+Rodrygo Silva de Goes,Brazil,25104.0,7,5,89,10,7,1.4,17.8,2.0,1.4,113,22.6,10,18
+Bukayo Saka,England,22084.0,7,4,84,9,7,1.75,21.0,2.25,1.75,107,26.75,10,17
+Joshua Kimmich,Germany,5579.0,7,3,229,17,2,2.33,76.33,5.67,0.67,255,85.0,8,39
+Rodrigo Javier De Paul,Argentina,7797.0,7,7,475,37,16,1.0,67.86,5.29,2.29,535,76.43,15,84
+Federico Santiago Valverde Dipetta,Uruguay,6773.0,7,3,152,14,4,2.33,50.67,4.67,1.33,177,59.0,9,29
+Sergino Dest,United States,21881.0,6,4,174,17,3,1.5,43.5,4.25,0.75,200,50.0,7,34
+Hee-Chan Hwang,South Korea,5620.0,6,2,46,10,3,3.0,23.0,5.0,1.5,65,32.5,7,14
+Abdelkarim Hassan Al Haj Fadlalla,Qatar,124494.0,6,3,125,12,4,2.0,41.67,4.0,1.33,147,49.0,8,24
+İlkay Gündoğan,Germany,10287.0,6,3,148,18,2,2.0,49.33,6.0,0.67,174,58.0,7,32
+Wataru Endo,Japan,23721.0,6,4,153,25,9,1.5,38.25,6.25,2.25,193,48.25,10,40
+Vincent Paté Aboubakar,Cameroon,11174.0,6,3,20,8,2,2.0,6.67,2.67,0.67,36,12.0,7,10
+Mohammed Kanoo,Saudi Arabia,5713.0,6,3,118,18,3,2.0,39.33,6.0,1.0,145,48.33,7,29
+Granit Xhaka,Switzerland,3500.0,6,4,211,9,4,1.5,52.75,2.25,1.0,230,57.5,8,30
+Michy Batshuayi Tunga,Belgium,3457.0,6,2,15,4,2,3.0,7.5,2.0,1.0,27,13.5,7,5
+Daichi Kamada,Japan,9411.0,6,4,83,7,1,1.5,20.75,1.75,0.25,97,24.25,6,15
+Harry Maguire,England,3336.0,6,5,354,15,2,1.2,70.8,3.0,0.4,377,75.4,7,50
+Breel-Donald Embolo,Switzerland,5545.0,6,4,50,6,14,1.5,12.5,1.5,3.5,76,19.0,13,11
+Kieffer Roberto Francisco Moore,Wales,3853.0,6,3,41,4,4,2.0,13.67,1.33,1.33,55,18.33,8,8
+Hirving Rodrigo Lozano Bahena,Mexico,5571.0,6,3,41,17,11,2.0,13.67,5.67,3.67,75,25.0,11,21
+Azzedine Ounahi,Morocco,46258.0,6,7,221,34,14,0.86,31.57,4.86,2.0,275,39.29,13,56
+Mehdi Taremi,Iran,5226.0,6,3,60,14,4,2.0,20.0,4.67,1.33,84,28.0,8,20
+Philip Foden,England,4354.0,6,4,93,8,4,1.5,23.25,2.0,1.0,111,27.75,8,17
+In-Beom Hwang,South Korea,23763.0,6,4,199,27,3,1.5,49.75,6.75,0.75,235,58.75,7,46
+Antonio Rüdiger,Germany,3167.0,6,3,227,16,3,2.0,75.67,5.33,1.0,252,84.0,7,38
+Steven Berghuis,Netherlands,7745.0,6,4,98,9,1,1.5,24.5,2.25,0.25,114,28.5,6,18
+Antoine Griezmann,France,5487.0,6,7,255,25,11,0.86,36.43,3.57,1.57,297,42.43,11,50
+Antony Matheus dos Santos,Brazil,25363.0,6,4,91,12,5,1.5,22.75,3.0,1.25,114,28.5,8,21
+Éder Gabriel Militão,Brazil,13620.0,5,4,251,21,3,1.25,62.75,5.25,0.75,280,70.0,6,46
+Andreas Evald Cornelius,Denmark,5732.0,5,3,21,3,2,1.67,7.0,1.0,0.67,31,10.33,6,5
+Timothy Weah,United States,3377.0,5,4,91,13,2,1.25,22.75,3.25,0.5,111,27.75,6,22
+Ahmad Nourollahi,Iran,124167.0,5,3,39,16,1,1.67,13.0,5.33,0.33,61,20.33,5,19
+Pierre Kunde Malong,Cameroon,12623.0,5,2,39,8,1,2.5,19.5,4.0,0.5,53,26.5,5,11
+Cody Mathès Gakpo,Netherlands,20750.0,5,5,98,23,5,1.0,19.6,4.6,1.0,131,26.2,7,32
+Pedro Guilherme Abreu dos Santos,Brazil,25305.0,5,2,12,1,1,2.5,6.0,0.5,0.5,19,9.5,5,2
+Tajon Buchanan,Canada,24024.0,5,3,61,15,6,1.67,20.33,5.0,2.0,87,29.0,8,21
+Theo Bernard François Hernández,France,6704.0,5,6,290,24,14,0.83,48.33,4.0,2.33,333,55.5,12,53
+Rafael Alexandre Conceição Leão,Portugal,18360.0,5,5,32,4,2,1.0,6.4,0.8,0.4,43,8.6,6,7
+Romelu Lukaku Menama,Belgium,3289.0,5,2,7,2,1,2.5,3.5,1.0,0.5,15,7.5,5,2
+Achraf Hakimi Mouh,Morocco,5245.0,5,7,314,43,13,0.71,44.86,6.14,1.86,375,53.57,11,74
+Bruno Guimarães Rodriguez Moura,Brazil,25142.0,5,2,46,9,2,2.5,23.0,4.5,1.0,62,31.0,6,13
+Randal Kolo Muani,France,22097.0,5,3,25,6,5,1.67,8.33,2.0,1.67,41,13.67,7,8
+Sardar Azmoun,Iran,5224.0,5,3,18,2,1,1.67,6.0,0.67,0.33,26,8.67,5,3
+Lovro Majer,Croatia,28914.0,5,7,80,13,5,0.71,11.43,1.86,0.71,103,14.71,7,21
+Kang-In Lee,South Korea,22740.0,5,4,61,9,4,1.25,15.25,2.25,1.0,79,19.75,7,15
+Kai Havertz,Germany,8966.0,5,2,26,4,1,2.5,13.0,2.0,0.5,36,18.0,5,6
+Jude Bellingham,England,30714.0,5,5,242,33,8,1.0,48.4,6.6,1.6,288,57.6,9,57
+Daley Blind,Netherlands,3311.0,5,5,260,13,1,1.0,52.0,2.6,0.2,279,55.8,5,39
+Weston McKennie,United States,8526.0,5,4,117,16,2,1.25,29.25,4.0,0.5,140,35.0,6,27
+Wahbi Khazri,Tunisia,3196.0,5,2,12,8,2,2.5,6.0,4.0,1.0,27,13.5,6,9
+Carlos Soler Barragán,Spain,6583.0,5,2,78,5,2,2.5,39.0,2.5,1.0,90,45.0,6,12
+Marcelo Brozović,Croatia,5469.0,5,6,472,34,10,0.83,78.67,5.67,1.67,521,86.83,10,81
+Dejan Lovren,Croatia,3471.0,4,6,407,11,5,0.67,67.83,1.83,0.83,427,71.17,6,51
+Ferrán Torres García,Spain,6748.0,4,4,62,8,5,1.0,15.5,2.0,1.25,79,19.75,6,14
+Alphonso Davies,Canada,12365.0,4,3,82,21,4,1.33,27.33,7.0,1.33,111,37.0,6,29
+Orbelín Pineda Alvarado,Mexico,26280.0,4,1,20,8,4,4.0,20.0,8.0,4.0,36,36.0,6,10
+Christian Dannemann Eriksen,Denmark,3043.0,4,3,193,16,1,1.33,64.33,5.33,0.33,214,71.33,4,35
+Cheikh Ahmadou Bamba Mbacke Dieng,Senegal,88123.0,4,4,11,7,4,1.0,2.75,1.75,1.0,26,6.5,6,8
+David Junior Hoilett,Canada,9922.0,4,3,40,12,5,1.33,13.33,4.0,1.67,61,20.33,6,16
+Pape Gueye,Senegal,21026.0,4,3,46,11,3,1.33,15.33,3.67,1.0,64,21.33,5,15
+Joachim Andersen,Denmark,8247.0,4,3,199,13,4,1.33,66.33,4.33,1.33,220,73.33,6,32
+Andreas Skov Olsen,Denmark,17042.0,4,2,44,2,1,2.0,22.0,1.0,0.5,51,25.5,4,6
+Kasper Dolberg,Denmark,6302.0,4,3,17,4,2,1.33,5.67,1.33,0.67,27,9.0,5,5
+Joshua Sargent,United States,22168.0,4,3,30,3,2,1.33,10.0,1.0,0.67,39,13.0,5,6
+John Stones,England,3244.0,4,5,430,10,3,0.8,86.0,2.0,0.6,447,89.4,5,53
+Jakub Kamiński,Poland,31955.0,4,4,35,16,3,1.0,8.75,4.0,0.75,58,14.5,5,19
+Idrissa Gana Gueye,Senegal,3436.0,4,3,106,18,1,1.33,35.33,6.0,0.33,129,43.0,4,28
+Lucas Tolentino Coelho de Lima,Brazil,22600.0,4,4,172,10,2,1.0,43.0,2.5,0.5,188,47.0,5,27
+Henry Josué Martín Mex,Mexico,26400.0,4,2,15,1,4,2.0,7.5,0.5,2.0,24,12.0,6,2
+Youssouf Fofana,France,11990.0,4,6,95,13,2,0.67,15.83,2.17,0.33,114,19.0,5,22
+Yannick Ferreira Carrasco,Belgium,5633.0,4,2,39,5,2,2.0,19.5,2.5,1.0,50,25.0,5,8
+Jules Koundé,France,4445.0,4,6,258,15,3,0.67,43.0,2.5,0.5,280,46.67,5,40
+Xherdan Shaqiri,Switzerland,3533.0,4,3,68,8,6,1.33,22.67,2.67,2.0,86,28.67,7,14
+Leon Goretzka,Germany,6324.0,4,3,46,6,4,1.33,15.33,2.0,1.33,60,20.0,6,10
+Mason Mount,England,7843.0,4,4,62,7,10,1.0,15.5,1.75,2.5,83,20.75,9,13
+Gabriel Teodoro Martinelli Silva,Brazil,29976.0,4,3,34,6,3,1.33,11.33,2.0,1.0,47,15.67,5,9
+Mario Pašalić,Croatia,11603.0,4,7,77,12,1,0.57,11.0,1.71,0.14,94,13.43,4,19
+Mohamed Dräger,Tunisia,9236.0,4,2,35,4,2,2.0,17.5,2.0,1.0,45,22.5,5,7
+Pape Matar Sarr,Senegal,50498.0,4,2,40,2,1,2.0,20.0,1.0,0.5,47,23.5,4,6
+Ritsu Doan,Japan,8361.0,4,4,37,13,4,1.0,9.25,3.25,1.0,58,14.5,6,16
+Noussair Mazraoui,Morocco,15890.0,4,5,103,14,1,0.8,20.6,2.8,0.2,122,24.4,4,24
+Manuel Obafemi Akanji,Switzerland,5549.0,4,4,229,10,1,1.0,57.25,2.5,0.25,244,61.0,4,32
+Yunus Dimoara Musah,United States,38792.0,4,4,154,18,4,1.0,38.5,4.5,1.0,180,45.0,6,33
+Virgil van Dijk,Netherlands,3669.0,4,5,305,9,2,0.8,61.0,1.8,0.4,320,64.0,5,39
+Abdelhamid Sabiri,Morocco,3634.0,4,5,46,3,3,0.8,9.2,0.6,0.6,56,11.2,5,7
+Angelo Smit Preciado Quiñónez,Ecuador,37737.0,4,3,97,18,2,1.33,32.33,6.0,0.67,121,40.33,5,27
+Piotr Zieliński,Poland,5660.0,3,4,124,15,2,0.75,31.0,3.75,0.5,144,36.0,4,27
+Daniel Alves da Silva,Brazil,4324.0,3,2,88,7,2,1.5,44.0,3.5,1.0,100,50.0,4,15
+Issam Jebali,Tunisia,16352.0,3,3,29,8,2,1.0,9.67,2.67,0.67,42,14.0,4,10
+Jackson Irvine,Australia,5490.0,3,4,107,11,2,0.75,26.75,2.75,0.5,123,30.75,4,21
+Jin-Su Kim,South Korea,40538.0,3,4,102,12,6,0.75,25.5,3.0,1.5,123,30.75,6,22
+Neco Williams,Wales,34794.0,3,3,71,19,5,1.0,23.67,6.33,1.67,98,32.67,5,26
+Nicolás Alejandro Tagliafico,Argentina,5507.0,3,6,153,13,6,0.5,25.5,2.17,1.0,175,29.17,6,28
+Nicolas Alexis Julio N'Koulou Ndoubena,Cameroon,7472.0,3,2,79,12,2,1.5,39.5,6.0,1.0,96,48.0,4,19
+Cyle Larin,Canada,16459.0,3,3,21,4,0,1.0,7.0,1.33,0.0,28,9.33,3,6
+José María Giménez de Vargas,Uruguay,5259.0,3,3,140,6,3,1.0,46.67,2.0,1.0,152,50.67,4,20
+Jesper Lindstrøm,Denmark,27569.0,3,3,38,6,2,1.0,12.67,2.0,0.67,49,16.33,4,9
+Takumi Minamino,Japan,8776.0,3,3,14,2,0,1.0,4.67,0.67,0.0,19,6.33,3,3
+Stephen Antunes Eustáquio,Canada,11187.0,3,2,85,5,1,1.5,42.5,2.5,0.5,94,47.0,3,13
+Alireza Jahanbakhsh,Iran,5239.0,3,2,9,4,0,1.5,4.5,2.0,0.0,16,8.0,3,4
+Zakaria Aboukhlal,Morocco,21736.0,3,4,8,5,0,0.75,2.0,1.25,0.0,16,4.0,3,5
+Darwin Gabriel Núñez Ribeiro,Uruguay,32478.0,3,3,36,8,3,1.0,12.0,2.67,1.0,50,16.67,4,11
+Moisés Isaac Caicedo Corozo,Ecuador,37726.0,3,3,128,16,5,1.0,42.67,5.33,1.67,152,50.67,5,28
+Thomas Meunier,Belgium,3176.0,3,3,109,8,1,1.0,36.33,2.67,0.33,121,40.33,3,18
+Raphaël Adelino José Guerreiro,Portugal,5209.0,3,4,163,9,2,0.75,40.75,2.25,0.5,177,44.25,4,25
+Sergej Milinković-Savić,Serbia,5589.0,3,3,90,19,4,1.0,30.0,6.33,1.33,116,38.67,5,28
+Saleh Khalid Al Shehri,Saudi Arabia,51469.0,3,3,32,8,5,1.0,10.67,2.67,1.67,48,16.0,5,11
+Wout Weghorst,Netherlands,7829.0,3,4,9,1,1,0.75,2.25,0.25,0.25,14,3.5,3,1
+Thomas Müller,Germany,5562.0,3,3,54,4,2,1.0,18.0,1.33,0.67,63,21.0,4,9
+Kamil Glik,Poland,3034.0,3,4,122,7,1,0.75,30.5,1.75,0.25,133,33.25,3,19
+Yuki Soma,Japan,37122.0,3,1,13,3,3,3.0,13.0,3.0,3.0,22,22.0,4,4
+Ruben Vargas,Switzerland,30401.0,3,4,81,9,3,0.75,20.25,2.25,0.75,96,24.0,4,17
+Sergio Busquets i Burgos,Spain,5203.0,3,4,265,12,3,0.75,66.25,3.0,0.75,283,70.75,4,38
+Almoez Ali Zainalabiddin Abdulla,Qatar,124495.0,3,3,36,6,2,1.0,12.0,2.0,0.67,47,15.67,4,9
+Raphaël Varane,France,5485.0,3,6,251,10,1,0.5,41.83,1.67,0.17,265,44.17,3,35
+Brennan Johnson,Wales,29377.0,3,3,12,8,1,1.0,4.0,2.67,0.33,24,8.0,3,9
+Osman Bukari,Ghana,44225.0,3,2,17,7,1,1.5,8.5,3.5,0.5,28,14.0,3,8
+Nikola Milenković,Serbia,5603.0,3,3,136,6,2,1.0,45.33,2.0,0.67,147,49.0,4,19
+Otávio Edmilson da Silva Monteiro,Portugal,11184.0,3,3,101,9,13,1.0,33.67,3.0,4.33,126,42.0,9,19
+Mohammed Muntari,Qatar,124901.0,3,3,17,3,2,1.0,5.67,1.0,0.67,25,8.33,4,4
+Luke Shaw,England,3382.0,3,5,340,16,5,0.6,68.0,3.2,1.0,364,72.8,5,50
+Famara Diedhiou,Senegal,13314.0,3,2,10,3,2,1.5,5.0,1.5,1.0,18,9.0,4,4
+Edinson Roberto Cavani Gómez,Uruguay,4319.0,3,3,29,4,1,1.0,9.67,1.33,0.33,37,12.33,3,6
+Riley McGree,Australia,33477.0,3,4,57,10,2,0.75,14.25,2.5,0.5,72,18.0,4,15
+Michael Steveen Estrada Martínez,Ecuador,34396.0,3,3,30,4,8,1.0,10.0,1.33,2.67,45,15.0,7,7
+Hidemasa Morita,Japan,37221.0,3,3,128,20,1,1.0,42.67,6.67,0.33,152,50.67,3,32
+Kléper Laveran Lima Ferreira,Portugal,20016.0,3,4,252,18,6,0.75,63.0,4.5,1.5,279,69.75,6,43
+Frederico Rodrigues Santos,Brazil,9904.0,3,4,68,8,0,0.75,17.0,2.0,0.0,79,19.75,3,14
+Dušan Vlahović,Serbia,18015.0,3,2,7,5,2,1.5,3.5,2.5,1.0,17,8.5,4,5
+Giorgian Daniel De Arrascaeta Benedetti,Uruguay,5258.0,3,2,34,5,0,1.5,17.0,2.5,0.0,42,21.0,3,8
+Dries Mertens,Belgium,5630.0,3,2,24,0,2,1.5,12.0,0.0,1.0,29,14.5,4,2
+Fran Karačić,Australia,28370.0,3,2,35,10,1,1.5,17.5,5.0,0.5,49,24.5,3,13
+Rodrigo Bentancur Colmán,Uruguay,5260.0,3,3,134,17,4,1.0,44.67,5.67,1.33,158,52.67,5,30
+Remo Freuler,Switzerland,6983.0,3,4,126,17,2,0.75,31.5,4.25,0.5,148,37.0,4,29
+Ricardo Jorge Luz Horta,Portugal,10868.0,3,3,31,5,1,1.0,10.33,1.67,0.33,40,13.33,3,8
+Krépin Diatta,Senegal,20758.0,3,3,62,12,3,1.0,20.67,4.0,1.0,80,26.67,4,18
+Keysher Fuller Spence,Costa Rica,130185.0,3,3,43,8,4,1.0,14.33,2.67,1.33,58,19.33,5,12
+Saeid Ezatolahi Afagh,Iran,5722.0,3,3,71,9,6,1.0,23.67,3.0,2.0,89,29.67,6,16
+Jean-Eric Maxim Choupo-Moting,Cameroon,3499.0,3,3,47,9,2,1.0,15.67,3.0,0.67,61,20.33,4,13
+Mateo Kovačić,Croatia,5456.0,3,7,416,32,18,0.43,59.43,4.57,2.57,469,67.0,12,73
+Ko Itakura,Japan,29595.0,3,3,102,6,0,1.0,34.0,2.0,0.0,111,37.0,3,16
+Leandro Daniel Paredes,Argentina,16308.0,3,5,227,10,5,0.6,45.4,2.0,1.0,245,49.0,5,32
+Leroy Sané,Germany,3053.0,3,2,48,4,0,1.5,24.0,2.0,0.0,55,27.5,3,8
+Gonzalo Ariel Montiel,Argentina,28263.0,3,4,71,3,2,0.75,17.75,0.75,0.5,79,19.75,4,10
+Ben Davies,Wales,3086.0,3,3,121,18,3,1.0,40.33,6.0,1.0,145,48.33,4,30
+Teun Koopmeiners,Netherlands,7891.0,3,5,95,12,1,0.6,19.0,2.4,0.2,111,22.2,3,21
+Youssouf Sabaly,Senegal,3404.0,2,4,192,26,13,0.5,48.0,6.5,3.25,233,58.25,8,45
+André Ayew Pelé,Ghana,3347.0,2,3,31,5,7,0.67,10.33,1.67,2.33,45,15.0,5,8
+Pervis Josué Estupiñán Tenorio,Ecuador,24085.0,2,3,146,17,3,0.67,48.67,5.67,1.0,168,56.0,3,31
+Pedro Miguel Correia,Qatar,124506.0,2,3,83,10,5,0.67,27.67,3.33,1.67,100,33.33,4,18
+Davy Klaassen,Netherlands,4318.0,2,4,60,6,3,0.5,15.0,1.5,0.75,71,17.75,3,12
+Joakim Mæhle,Denmark,16554.0,2,3,120,11,4,0.67,40.0,3.67,1.33,137,45.67,4,23
+Joe Allen,Wales,10931.0,2,2,30,9,2,1.0,15.0,4.5,1.0,43,21.5,3,12
+Sultan Abdullah Salim Al Ghannam,Saudi Arabia,57620.0,2,3,36,5,0,0.67,12.0,1.67,0.0,43,14.33,2,8
+Rúben Diogo Da Silva Neves,Portugal,9927.0,2,5,238,12,2,0.4,47.6,2.4,0.4,254,50.8,3,35
+Thiago Emiliano da Silva,Brazil,3295.0,2,4,320,12,3,0.5,80.0,3.0,0.75,337,84.25,3,44
+Steven Bergwijn,Netherlands,8259.0,2,4,65,5,4,0.5,16.25,1.25,1.0,76,19.0,4,11
+Strahinja Pavlović,Serbia,27719.0,2,3,121,17,5,0.67,40.33,5.67,1.67,145,48.33,4,29
+Shogo Taniguchi,Japan,37215.0,2,2,76,2,0,1.0,38.0,1.0,0.0,80,40.0,2,9
+Jordan Brian Henderson,England,3532.0,2,4,141,6,4,0.5,35.25,1.5,1.0,153,38.25,4,20
+Iñaki Williams Arthuer,Ghana,6393.0,2,3,33,11,3,0.67,11.0,3.67,1.0,49,16.33,3,14
+Iliman Ndiaye,Senegal,80484.0,2,3,28,4,1,0.67,9.33,1.33,0.33,35,11.67,2,6
+Jan Vertonghen,Belgium,3077.0,2,3,237,10,6,0.67,79.0,3.33,2.0,255,85.0,5,33
+Ismaeel Mohammad Mohammad,Qatar,124899.0,2,2,53,4,6,1.0,26.5,2.0,3.0,65,32.5,5,9
+Jordi Alba Ramos,Spain,5211.0,2,4,329,15,3,0.5,82.25,3.75,0.75,349,87.25,3,47
+Andreas Christensen,Denmark,3959.0,2,3,236,11,1,0.67,78.67,3.67,0.33,250,83.33,2,34
+Thomas Teye Partey,Ghana,6383.0,2,3,153,14,3,0.67,51.0,4.67,1.0,172,57.33,3,29
+Craig Goodwin,Australia,8346.0,2,4,57,8,2,0.5,14.25,2.0,0.5,69,17.25,3,13
+Mehdi Torabi,Iran,124161.0,2,3,31,6,0,0.67,10.33,2.0,0.0,39,13.0,2,9
+Maximiliano Gómez González,Uruguay,6297.0,2,2,4,1,1,1.0,2.0,0.5,0.5,8,4.0,2,1
+Denzel Dumfries,Netherlands,8125.0,2,5,148,10,8,0.4,29.6,2.0,1.6,168,33.6,6,24
+Nemanja Radonjić,Serbia,5833.0,2,3,16,2,2,0.67,5.33,0.67,0.67,22,7.33,3,3
+Nawaf Shaker Al Abid,Saudi Arabia,54144.0,2,2,34,4,3,1.0,17.0,2.0,1.5,43,21.5,3,7
+Nampalys Mendy,Senegal,4506.0,2,4,145,19,3,0.5,36.25,4.75,0.75,169,42.25,3,33
+Nahuel Molina Lucero,Argentina,29201.0,2,7,296,19,0,0.29,42.29,2.71,0.0,317,45.29,2,48
+Morteza Pouraliganji,Iran,5220.0,2,3,93,8,1,0.67,31.0,2.67,0.33,104,34.67,2,17
+Pierre-Emile Højbjerg,Denmark,3570.0,2,3,200,19,1,0.67,66.67,6.33,0.33,222,74.0,2,39
+Alexander Hartmann Bah,Denmark,24547.0,2,2,37,4,1,1.0,18.5,2.0,0.5,44,22.0,2,7
+Akram Hassan Afif,Qatar,40784.0,2,3,141,17,6,0.67,47.0,5.67,2.0,166,55.33,5,31
+Danilo Luiz da Silva,Brazil,3063.0,2,3,232,11,1,0.67,77.33,3.67,0.33,246,82.0,2,34
+Luka Jović,Serbia,6319.0,2,2,7,0,0,1.0,3.5,0.0,0.0,9,4.5,2,0
+Frenkie de Jong,Netherlands,8118.0,2,5,327,23,8,0.4,65.4,4.6,1.6,360,72.0,6,55
+Mohamed Salisu,Ghana,30519.0,2,3,106,8,1,0.67,35.33,2.67,0.33,117,39.0,2,18
+Gonzalo Jordy Plata Jiménez,Ecuador,31152.0,2,3,78,8,6,0.67,26.0,2.67,2.0,94,31.33,5,15
+Atiba Hutchinson,Canada,31684.0,2,3,103,5,2,0.67,34.33,1.67,0.67,112,37.33,3,15
+Fabian Lukas Schär,Switzerland,5537.0,2,2,64,4,2,1.0,32.0,2.0,1.0,72,36.0,3,10
+Daizen Maeda,Japan,30628.0,2,3,8,4,3,0.67,2.67,1.33,1.0,17,5.67,3,4
+Ellyes Joris Skhiri,Tunisia,3767.0,2,3,109,24,3,0.67,36.33,8.0,1.0,138,46.0,3,34
+Mohammed Al Burayk,Saudi Arabia,5191.0,2,2,39,5,1,1.0,19.5,2.5,0.5,47,23.5,2,8
+Richie Laryea,Canada,16120.0,2,3,35,12,3,0.67,11.67,4.0,1.0,52,17.33,3,15
+Romario Andrés Ibarra Mina,Ecuador,12803.0,2,2,11,5,0,1.0,5.5,2.5,0.0,18,9.0,2,6
+Pablo Sarabia García,Spain,6720.0,2,1,2,1,0,2.0,2.0,1.0,0.0,5,5.0,2,1
+Luuk de Jong,Netherlands,20033.0,2,1,8,1,1,2.0,8.0,1.0,1.0,12,12.0,2,1
+Min Jae Kim,South Korea,43565.0,2,3,165,12,0,0.67,55.0,4.0,0.0,179,59.67,2,28
+Gabriel Fernando de Jesus,Brazil,3202.0,2,3,23,8,5,0.67,7.67,2.67,1.67,38,12.67,4,10
+Gareth Frank Bale,Wales,6399.0,2,3,34,5,5,0.67,11.33,1.67,1.67,46,15.33,4,8
+Djibril Sow,Switzerland,16026.0,2,4,88,10,8,0.5,22.0,2.5,2.0,108,27.0,6,18
+Giovanni Reyna,United States,34339.0,2,2,26,3,2,1.0,13.0,1.5,1.0,33,16.5,3,5
+Marcos Javier Acuña,Argentina,19597.0,2,6,170,19,9,0.33,28.33,3.17,1.5,200,33.33,6,36
+Borna Sosa,Croatia,12625.0,2,5,222,14,3,0.4,44.4,2.8,0.6,241,48.2,3,36
+Aïssa Bilal Laïdouni,Tunisia,44955.0,2,3,97,23,7,0.67,32.33,7.67,2.33,129,43.0,5,32
+Aziz Eraltay Behich,Australia,5479.0,2,4,154,16,3,0.5,38.5,4.0,0.75,175,43.75,3,31
+Harry Wilson,Wales,9540.0,2,3,48,6,3,0.67,16.0,2.0,1.0,59,19.67,3,10
+Marcos Aoás Corrêa,Brazil,4372.0,2,5,345,15,2,0.4,69.0,3.0,0.4,364,72.8,3,49
+Mathias Jensen,Denmark,18722.0,2,2,53,0,1,1.0,26.5,0.0,0.5,56,28.0,2,5
+Mathías Olivera Miramontes,Uruguay,7104.0,2,3,108,16,4,0.67,36.0,5.33,1.33,130,43.33,4,26
+Kingsley Coman,France,8217.0,2,6,54,9,6,0.33,9.0,1.5,1.0,71,11.83,5,14
+Selim Amallah,Morocco,23774.0,2,7,70,15,8,0.29,10.0,2.14,1.14,95,13.57,6,22
+Bryan Mbeumo,Cameroon,4935.0,2,3,52,10,8,0.67,17.33,3.33,2.67,72,24.0,6,15
+Carlos Uriel Antuna Romero,Mexico,15452.0,2,3,9,2,1,0.67,3.0,0.67,0.33,14,4.67,2,2
+Firas Tariq Nasser Al Albirakan,Saudi Arabia,51099.0,2,3,46,11,3,0.67,15.33,3.67,1.0,62,20.67,3,15
+Ibrahima Konaté,France,11135.0,2,5,209,15,3,0.4,41.8,3.0,0.6,229,45.8,3,35
+Amadou Onana,Belgium,48347.0,2,2,57,1,3,1.0,28.5,0.5,1.5,63,31.5,3,6
+Alistair Johnston,Canada,44703.0,2,3,156,14,3,0.67,52.0,4.67,1.0,175,58.33,3,29
+Ramin Rezaeian,Iran,5235.0,2,2,71,7,4,1.0,35.5,3.5,2.0,84,42.0,4,14
+Krystian Bielik,Poland,11737.0,2,4,90,7,4,0.5,22.5,1.75,1.0,103,25.75,4,16
+Alejandro Darío Gómez,Argentina,7006.0,2,2,52,5,6,1.0,26.0,2.5,3.0,65,32.5,5,10
+Karl Brillant Toko Ekambi,Cameroon,3551.0,2,3,42,13,4,0.67,14.0,4.33,1.33,61,20.33,4,17
+Kaoru Mitoma,Japan,37211.0,2,4,54,9,1,0.5,13.5,2.25,0.25,66,16.5,2,14
+Luis Alberto Suárez Díaz,Uruguay,5246.0,2,3,26,3,6,0.67,8.67,1.0,2.0,37,12.33,5,5
+Joško Gvardiol,Croatia,33018.0,2,7,463,35,6,0.29,66.14,5.0,0.86,506,72.29,5,81
+Junya Ito,Japan,23527.0,2,4,63,15,6,0.5,15.75,3.75,1.5,86,21.5,5,21
+João Pedro Cavaco Cancelo,Portugal,7005.0,2,4,224,25,4,0.5,56.0,6.25,1.0,255,63.75,4,47
+Vitor Machado Ferreira,Portugal,34639.0,2,3,102,6,3,0.67,34.0,2.0,1.0,113,37.67,3,16
+Vincent Janssen,Netherlands,3264.0,2,2,16,3,2,1.0,8.0,1.5,1.0,23,11.5,3,4
+Yahia Attiyat allah,Morocco,31295.0,2,6,97,22,3,0.33,16.17,3.67,0.5,124,20.67,3,31
+Walid Cheddira,Morocco,296254.0,2,2,5,1,0,1.0,2.5,0.5,0.0,8,4.0,2,1
+Yeltsin Ignacio Tejeda Valverde,Costa Rica,5839.0,2,3,79,10,2,0.67,26.33,3.33,0.67,93,31.0,3,17
+Young-Gwon Kim,South Korea,5604.0,2,4,180,8,2,0.5,45.0,2.0,0.5,192,48.0,3,26
+Abdulelah Saad Hameed Al-Malki,Saudi Arabia,56755.0,2,2,71,11,4,1.0,35.5,5.5,2.0,88,44.0,4,18
+Abderrazak Hamdallah,Morocco,59493.0,2,4,8,6,2,0.5,2.0,1.5,0.5,18,4.5,3,6
+Achraf Dari,Morocco,139016.0,1,3,96,8,1,0.33,32.0,2.67,0.33,106,35.33,1,17
+Aaron Ramsey,Wales,3517.0,1,3,86,14,3,0.33,28.67,4.67,1.0,104,34.67,2,22
+Abdessamad Ezzalzouli,Morocco,149714.0,1,3,11,7,0,0.33,3.67,2.33,0.0,19,6.33,1,8
+Abdou Diallo,Senegal,8553.0,1,4,142,5,0,0.25,35.5,1.25,0.0,148,37.0,1,19
+Abdulrahman Al-Obood,Saudi Arabia,51705.0,1,2,8,3,0,0.5,4.0,1.5,0.0,12,6.0,1,3
+Aaron Mooy,Australia,3281.0,1,4,171,32,1,0.25,42.75,8.0,0.25,205,51.25,1,49
+Tim Ream,United States,18242.0,1,4,241,17,2,0.25,60.25,4.25,0.5,261,65.25,2,41
+Antoine Semenyo,Ghana,9286.0,1,2,1,2,0,0.5,0.5,1.0,0.0,4,2.0,1,2
+Ao Tanaka,Japan,37208.0,1,3,50,1,2,0.33,16.67,0.33,0.67,54,18.0,2,6
+Tariq Lamptey,Ghana,33602.0,1,2,21,5,2,0.5,10.5,2.5,1.0,29,14.5,2,7
+Taha Yassine Khenissi,Tunisia,128793.0,1,2,2,3,1,0.5,1.0,1.5,0.5,7,3.5,1,3
+Aymeric Laporte,Spain,4353.0,1,3,404,5,1,0.33,134.67,1.67,0.33,411,137.0,1,45
+Badr Banoun,Morocco,67700.0,1,3,21,1,0,0.33,7.0,0.33,0.0,23,7.67,1,3
+Arkadiusz Milik,Poland,5665.0,1,3,24,2,2,0.33,8.0,0.67,0.67,29,9.67,2,4
+Rubin Colwill,Wales,82257.0,1,1,2,1,0,1.0,2.0,1.0,0.0,4,4.0,1,1
+Rúben Santos Gato Alves Dias,Portugal,5206.0,1,4,246,14,2,0.25,61.5,3.5,0.5,263,65.75,2,38
+Jeremy Leonel Sarmiento Morante,Ecuador,40211.0,1,3,24,3,2,0.33,8.0,1.0,0.67,30,10.0,2,5
+Jesús Daniel Gallardo Vasconcelos,Mexico,5576.0,1,3,97,14,1,0.33,32.33,4.67,0.33,113,37.67,1,23
+Jewison Bennette,Costa Rica,132728.0,1,3,11,6,2,0.33,3.67,2.0,0.67,20,6.67,2,7
+Jonathan Osorio,Canada,12770.0,1,3,54,5,2,0.33,18.0,1.67,0.67,62,20.67,2,10
+Jordan Ayew,Ghana,3450.0,1,3,34,6,5,0.33,11.33,2.0,1.67,46,15.33,3,9
+João Maria Lobo Alves Palhinha Gonçalves,Portugal,12169.0,1,3,26,3,0,0.33,8.67,1.0,0.0,30,10.0,1,5
+Jorge Eduardo Sánchez Ramos,Mexico,26406.0,1,2,72,5,1,0.5,36.0,2.5,0.5,79,39.5,1,12
+Josip Juranović,Croatia,29163.0,1,6,326,32,7,0.17,54.33,5.33,1.17,366,61.0,4,64
+Josip Stanišić,Croatia,49337.0,1,1,36,3,3,1.0,36.0,3.0,3.0,43,43.0,2,6
+Jonas Hofmann,Germany,8804.0,1,2,16,1,0,0.5,8.0,0.5,0.0,18,9.0,1,2
+Abdulaziz Hatem Mohammed Abdullah,Qatar,124514.0,1,3,72,3,1,0.33,24.0,1.0,0.33,77,25.67,1,10
+Ismail Jakobs,Senegal,32915.0,1,4,105,10,6,0.25,26.25,2.5,1.5,122,30.5,4,20
+José Adoni Cifuentes Charcopa,Ecuador,36148.0,1,2,33,2,1,0.5,16.5,1.0,0.5,37,18.5,1,5
+José Diogo Dalot Teixeira,Portugal,16028.0,1,3,115,6,1,0.33,38.33,2.0,0.33,123,41.0,1,17
+Brenden Aaronson,United States,24243.0,1,4,41,7,4,0.25,10.25,1.75,1.0,53,13.25,3,11
+Bernardo Mota Veiga de Carvalho e Silva,Portugal,3193.0,1,5,259,26,3,0.2,51.8,5.2,0.6,289,57.8,2,51
+Borna Barišić,Croatia,11127.0,1,1,50,3,2,1.0,50.0,3.0,2.0,56,56.0,2,8
+Saman Ghoddos,Iran,5240.0,1,1,15,0,0,1.0,15.0,0.0,0.0,16,16.0,1,1
+Roozbeh Cheshmi,Iran,5222.0,1,2,7,3,0,0.5,3.5,1.5,0.0,11,5.5,1,3
+Sang-Ho Na,South Korea,41711.0,1,2,25,9,0,0.5,12.5,4.5,0.0,35,17.5,1,11
+Saud Abdullah Abdul Hamid,Saudi Arabia,51710.0,1,3,91,12,5,0.33,30.33,4.0,1.67,109,36.33,3,21
+Saša Lukić,Serbia,6687.0,1,3,143,15,1,0.33,47.67,5.0,0.33,160,53.33,1,29
+Sebastián Coates Nión,Uruguay,6300.0,1,2,78,8,0,0.5,39.0,4.0,0.0,87,43.5,1,15
+Salis Abdul Samed,Ghana,31029.0,1,3,130,15,2,0.33,43.33,5.0,0.67,148,49.33,2,28
+Bruno Petković,Croatia,7693.0,1,6,44,9,11,0.17,7.33,1.5,1.83,65,10.83,6,13
+Raheem Sterling,England,3233.0,1,3,47,4,4,0.33,15.67,1.33,1.33,56,18.67,3,8
+Seung-Ho Paik,South Korea,23264.0,1,1,19,2,0,1.0,19.0,2.0,0.0,22,22.0,1,3
+Kalidou Koulibaly,Senegal,5675.0,1,4,152,20,4,0.25,38.0,5.0,1.0,177,44.25,3,35
+Juan Pablo Vargas Campos,Costa Rica,27163.0,1,1,22,4,0,1.0,22.0,4.0,0.0,27,27.0,1,6
+Jules Olivier Ntcham,Cameroon,10530.0,1,1,11,2,0,1.0,11.0,2.0,0.0,14,14.0,1,3
+Lisandro Martínez,Argentina,27768.0,1,5,132,6,3,0.2,26.4,1.2,0.6,142,28.4,2,19
+Kendall Jamaal Waston Manley,Costa Rica,6328.0,1,3,65,2,0,0.33,21.67,0.67,0.0,68,22.67,1,8
+Kamaldeen Sulemana,Ghana,35658.0,1,2,11,0,2,0.5,5.5,0.0,1.0,14,7.0,2,1
+Karim Ansarifard,Iran,5231.0,1,2,5,2,0,0.5,2.5,1.0,0.0,8,4.0,1,2
+Jakub Piotr Kiwior,Poland,44166.0,1,4,169,8,0,0.25,42.25,2.0,0.0,178,44.5,1,24
+Joel Nathaniel Campbell Samuels,Costa Rica,5581.0,1,3,105,16,11,0.33,35.0,5.33,3.67,133,44.33,6,26
+Keanu Baccus,Australia,33488.0,1,4,26,7,1,0.25,6.5,1.75,0.25,35,8.75,1,9
+Jawad El Yamiq,Morocco,7459.0,1,6,143,13,5,0.17,23.83,2.17,0.83,162,27.0,3,27
+Jean-Charles Castelletto,Cameroon,7426.0,1,2,63,8,1,0.5,31.5,4.0,0.5,73,36.5,1,14
+Jack Grealish,England,9638.0,1,5,49,5,11,0.2,9.8,1.0,2.2,66,13.2,6,9
+Jackson Gabriel Porozo Vernaza,Ecuador,51969.0,1,2,37,4,2,0.5,18.5,2.0,1.0,44,22.0,2,7
+Jae-Sung Lee,South Korea,5623.0,1,3,84,8,1,0.33,28.0,2.67,0.33,94,31.33,1,16
+Christian Fassnacht,Switzerland,16022.0,1,1,8,2,0,1.0,8.0,2.0,0.0,11,11.0,1,2
+Axel Disasi,France,7439.0,1,2,58,2,2,0.5,29.0,1.0,1.0,63,31.5,2,7
+Axel Witsel,Belgium,5642.0,1,3,169,10,4,0.33,56.33,3.33,1.33,184,61.33,3,26
+Christopher Wooh,Cameroon,74588.0,1,1,27,0,0,1.0,27.0,0.0,0.0,28,28.0,1,2
+Przemysław Frankowski,Poland,7979.0,1,4,51,11,5,0.25,12.75,2.75,1.25,68,17.0,3,16
+Rodrigo Hernández Cascante,Spain,6765.0,1,4,644,20,1,0.25,161.0,5.0,0.25,666,166.5,1,84
+Rogelio Gabriel Funes Mori,Mexico,26318.0,1,1,0,0,1,1.0,0.0,0.0,1.0,2,2.0,1,0
+Romain Saïss,Morocco,5219.0,1,6,158,12,0,0.17,26.33,2.0,0.0,171,28.5,1,27
+Paulo Bruno Exequiel Dybala,Argentina,5743.0,1,2,9,1,0,0.5,4.5,0.5,0.0,11,5.5,1,1
+Pablo Martín Páez Gavira,Spain,133353.0,1,4,135,15,15,0.25,33.75,3.75,3.75,166,41.5,8,28
+Niklas Süle,Germany,6322.0,1,3,233,13,2,0.33,77.67,4.33,0.67,249,83.0,2,36
+Noah Okafor,Switzerland,29006.0,1,3,17,3,1,0.33,5.67,1.0,0.33,22,7.33,1,4
+Pathé Ismaël Ciss,Senegal,31751.0,1,3,51,9,0,0.33,17.0,3.0,0.0,61,20.33,1,14
+César Jasib Montes Castro,Mexico,26368.0,1,3,163,6,0,0.33,54.33,2.0,0.0,170,56.67,1,22
+Montassar Omar Talbi,Tunisia,32450.0,1,3,115,16,2,0.33,38.33,5.33,0.67,134,44.67,2,27
+Diego Nicolás De La Cruz Arcosa,Uruguay,28729.0,1,2,20,3,3,0.5,10.0,1.5,1.5,27,13.5,2,5
+Darko Lazović,Serbia,7145.0,1,1,7,1,1,1.0,7.0,1.0,1.0,10,10.0,1,1
+Hiroki Sakai,Japan,3530.0,1,2,31,4,2,0.5,15.5,2.0,1.0,38,19.0,2,7
+Haris Seferović,Switzerland,5543.0,1,3,10,0,0,0.33,3.33,0.0,0.0,11,3.67,1,1
+Harry Souttar,Australia,22293.0,1,4,135,10,1,0.25,33.75,2.5,0.25,147,36.75,1,23
+Hassan Khalid Al Heidos,Qatar,124488.0,1,3,63,12,0,0.33,21.0,4.0,0.0,76,25.33,1,18
+Grzegorz Krychowiak,Poland,3637.0,1,4,97,19,7,0.25,24.25,4.75,1.75,124,31.0,4,28
+Héctor Alfredo Moreno Herrera,Mexico,5573.0,1,3,166,12,3,0.33,55.33,4.0,1.0,182,60.67,2,28
+Kyung-Won Kwon,South Korea,40564.0,1,2,40,3,3,0.5,20.0,1.5,1.5,47,23.5,2,7
+Kevin José Rodríguez Cortez,Ecuador,348757.0,1,2,0,0,0,0.5,0.0,0.0,0.0,1,0.5,1,0
+Filip Kostić,Serbia,5591.0,1,2,73,11,2,0.5,36.5,5.5,1.0,87,43.5,2,18
+Filip Mladenović,Serbia,7993.0,1,1,19,3,0,1.0,19.0,3.0,0.0,23,23.0,1,4
+Leander Dendoncker,Belgium,6331.0,1,2,117,5,0,0.5,58.5,2.5,0.0,123,61.5,1,16
+Krzysztof Piątek,Poland,12493.0,1,2,3,1,1,0.5,1.5,0.5,0.5,6,3.0,1,1
+Denis Lemi Zakaria Lako Lado,Switzerland,5538.0,1,2,19,4,2,0.5,9.5,2.0,1.0,26,13.0,2,5
+Ngoran Suiru Fai Collins,Cameroon,16346.0,1,3,103,10,4,0.33,34.33,3.33,1.33,118,39.33,3,20
+Nayef Aguerd,Morocco,12149.0,1,4,133,6,0,0.25,33.25,1.5,0.0,140,35.0,1,19
+Naïm Sliti,Tunisia,3557.0,1,2,29,7,3,0.5,14.5,3.5,1.5,40,20.0,2,9
+Nico Elvedi,Switzerland,8814.0,1,2,132,6,1,0.5,66.0,3.0,0.5,140,70.0,1,19
+Nicolás Hernán Otamendi,Argentina,3090.0,1,7,528,28,6,0.14,75.43,4.0,0.86,563,80.43,4,80
+Edson Omar Álvarez Velázquez,Mexico,5567.0,1,2,85,8,1,0.5,42.5,4.0,0.5,95,47.5,1,16
+Diego Roberto Godín Leal,Uruguay,5249.0,1,2,85,3,1,0.5,42.5,1.5,0.5,90,45.0,1,11
+Matías Vecino Falero,Uruguay,5255.0,1,3,82,10,0,0.33,27.33,3.33,0.0,93,31.0,1,18
+Maya Yoshida,Japan,3300.0,1,4,201,9,5,0.25,50.25,2.25,1.25,216,54.0,3,29
+Ehsan Hajsafi,Iran,5230.0,1,3,64,8,3,0.33,21.33,2.67,1.0,76,25.33,2,14
+Dylan Daniel Mahmoud Bronn,Tunisia,5655.0,1,2,71,9,1,0.5,35.5,4.5,0.5,82,41.0,1,16
+Eden Hazard,Belgium,3621.0,1,3,46,12,7,0.33,15.33,4.0,2.33,66,22.0,4,16
+Edimilson Fernandes,Switzerland,3913.0,1,3,66,10,1,0.33,22.0,3.33,0.33,78,26.0,1,16
+Ethan Ampadu,Wales,4934.0,1,3,110,13,4,0.33,36.67,4.33,1.33,128,42.67,3,24
+Exequiel Alejandro Palacios,Argentina,28268.0,1,3,24,4,4,0.33,8.0,1.33,1.33,33,11.0,3,6
+Facundo Pellistri Rebollo,Uruguay,36288.0,1,3,35,6,2,0.33,11.67,2.0,0.67,44,14.67,2,9
+Michał Skóraś,Poland,28453.0,1,1,8,0,2,1.0,8.0,0.0,2.0,11,11.0,2,0
+Matty Cash,Poland,4734.0,1,4,121,8,2,0.25,30.25,2.0,0.5,132,33.0,2,20
+Gerson Torres Barrantes,Costa Rica,132497.0,1,1,17,4,8,1.0,17.0,4.0,8.0,30,30.0,5,5
+Francisco Javier Calvo Quesada,Costa Rica,5600.0,1,2,85,10,1,0.5,42.5,5.0,0.5,97,48.5,1,18
+Felix Eduardo Torres Caicedo,Ecuador,30111.0,1,3,159,6,0,0.33,53.0,2.0,0.0,166,55.33,1,21
+Ferjani Sassi,Tunisia,5650.0,1,2,25,5,1,0.5,12.5,2.5,0.5,32,16.0,1,7
+Dušan Tadić,Serbia,3831.0,1,3,88,8,4,0.33,29.33,2.67,1.33,101,33.67,3,16
+Gleison Bremer Silva Nascimento,Brazil,11493.0,1,2,79,7,0,0.5,39.5,3.5,0.0,87,43.5,1,14
+Garang Kuol,Australia,227697.0,1,2,3,0,0,0.5,1.5,0.0,0.0,4,2.0,1,0
+Georges-Kévin Nkoudou Mbida,Cameroon,3639.0,1,2,9,3,2,0.5,4.5,1.5,1.0,15,7.5,2,3
+Germán Alejandro Pezzella,Argentina,7161.0,1,3,47,2,2,0.33,15.67,0.67,0.67,52,17.33,2,6
+Marko Grujić,Serbia,3512.0,1,1,14,1,0,1.0,14.0,1.0,0.0,16,16.0,1,2
+Martin Braithwaite Christensen,Denmark,4447.0,1,2,13,2,0,0.5,6.5,1.0,0.0,16,8.0,1,3
+Martin Hongla Yma II,Cameroon,30016.0,1,2,52,3,1,0.5,26.0,1.5,0.5,57,28.5,1,8
+Marcos Llorente Moreno,Spain,6840.0,1,1,94,10,1,1.0,94.0,10.0,1.0,106,106.0,1,19
+Marcus Thuram,France,2972.0,1,5,32,8,5,0.2,6.4,1.6,1.0,46,9.2,3,11
+Mario Götze,Germany,8227.0,1,2,15,2,1,0.5,7.5,1.0,0.5,19,9.5,1,3
+Kieran Trippier,England,3308.0,1,3,165,8,0,0.33,55.0,2.67,0.0,174,58.0,1,24
+Matheus Luiz Nunes,Portugal,40874.0,1,2,25,1,2,0.5,12.5,0.5,1.0,29,14.5,2,3
+Mathew Leckie,Australia,5481.0,1,4,69,16,5,0.25,17.25,4.0,1.25,91,22.75,3,22
+Mark Anthony Kaye,Canada,16252.0,1,1,50,4,1,1.0,50.0,4.0,1.0,56,56.0,1,9
+Yassine Meriah,Tunisia,5651.0,1,3,138,14,1,0.33,46.0,4.67,0.33,154,51.33,1,27
+Abdulelah Al Amri,Saudi Arabia,51094.0,1,3,76,15,3,0.33,25.33,5.0,1.0,95,31.67,2,22
+Andrija Živković,Serbia,6318.0,1,3,73,10,4,0.33,24.33,3.33,1.33,88,29.33,3,17
+Silvan Widmer,Switzerland,7796.0,1,3,127,7,2,0.33,42.33,2.33,0.67,137,45.67,2,19
+Sofyan Amrabat,Morocco,5234.0,1,7,274,44,7,0.14,39.14,6.29,1.0,326,46.57,4,71
+André-Frank Zambo Anguissa,Cameroon,3141.0,1,3,115,10,5,0.33,38.33,3.33,1.67,131,43.67,3,21
+Anis Ben Slimane,Tunisia,35592.0,1,2,35,8,1,0.5,17.5,4.0,0.5,45,22.5,1,11
+Ante Budimir,Croatia,8654.0,1,2,4,1,2,0.5,2.0,0.5,1.0,8,4.0,2,1
+Alex Sandro Lobo Silva,Brazil,6945.0,1,3,150,14,2,0.33,50.0,4.67,0.67,167,55.67,2,29
+Ajdin Hrustic,Australia,8859.0,1,3,18,4,2,0.33,6.0,1.33,0.67,25,8.33,2,5
+Ali Al Hassan,Saudi Arabia,51096.0,1,1,4,4,0,1.0,4.0,4.0,0.0,9,9.0,1,4
+Ali Gholizadeh,Iran,23874.0,1,3,47,16,1,0.33,15.67,5.33,0.33,65,21.67,1,20
+Alidu Seidu,Ghana,45047.0,1,2,60,10,5,0.5,30.0,5.0,2.5,76,38.0,3,16
+Alejandro Balde Martínez,Spain,39161.0,1,4,111,5,1,0.25,27.75,1.25,0.25,118,29.5,1,16
+Ui-Jo Hwang,South Korea,29966.0,1,4,8,2,0,0.25,2.0,0.5,0.0,11,2.75,1,2
+William Silva de Carvalho,Portugal,5214.0,1,4,153,5,1,0.25,38.25,1.25,0.25,160,40.0,1,20
+Woo-Yeong Jeong,South Korea,22067.0,1,1,13,2,0,1.0,13.0,2.0,0.0,16,16.0,1,3
+Woo-Young Jung,South Korea,5618.0,1,4,179,17,0,0.25,44.75,4.25,0.0,197,49.25,1,34
+Walker Zimmerman,United States,12524.0,1,4,212,6,0,0.25,53.0,1.5,0.0,219,54.75,1,27
+Tyler Adams,United States,12751.0,1,4,246,29,6,0.25,61.5,7.25,1.5,282,70.5,4,53
+Wojciech Szczęsny,Poland,5669.0,0,4,88,18,2,0.0,22.0,4.5,0.5,108,27.0,1,26
+Wajdi Kechrida,Tunisia,105944.0,0,3,43,6,0,0.0,14.33,2.0,0.0,49,16.33,0,10
+Trent Alexander-Arnold,England,3664.0,0,1,21,0,0,0.0,21.0,0.0,0.0,21,21.0,0,2
+Unai Simón Mendibil,Spain,11748.0,0,4,148,12,0,0.0,37.0,3.0,0.0,160,40.0,0,26
+Vanja Milinković Savić,Serbia,20600.0,0,3,92,19,0,0.0,30.67,6.33,0.0,111,37.0,0,28
+Victor Nelsson,Denmark,17043.0,0,1,68,4,2,0.0,68.0,4.0,2.0,74,74.0,1,10
+Yahya Jabrane,Morocco,102668.0,0,2,2,3,0,0.0,1.0,1.5,0.0,5,2.5,0,3
+Yann Sommer,Switzerland,5550.0,0,3,107,11,0,0.0,35.67,3.67,0.0,118,39.33,0,21
+Yasir Gharsan Al Shahrani,Saudi Arabia,5183.0,0,1,12,2,0,0.0,12.0,2.0,0.0,14,14.0,0,3
+Ali Abdi,Tunisia,30681.0,0,3,72,14,0,0.0,24.0,4.67,0.0,86,28.67,0,21
+Ali Albulayhi,Saudi Arabia,5715.0,0,3,71,7,1,0.0,23.67,2.33,0.33,79,26.33,0,14
+Ali Assadalla Thaimn Qambar,Qatar,149463.0,0,1,22,1,0,0.0,22.0,1.0,0.0,23,23.0,0,3
+Ali Karimi,Iran,125818.0,0,3,36,0,1,0.0,12.0,0.0,0.33,37,12.33,0,3
+Ali Maâloul,Tunisia,5647.0,0,1,39,2,0,0.0,39.0,2.0,0.0,41,41.0,0,5
+Alex Nicolao Telles,Brazil,11183.0,0,2,35,2,1,0.0,17.5,1.0,0.5,38,19.0,0,5
+Alexander Djiku,Ghana,2989.0,0,2,23,3,2,0.0,11.5,1.5,1.0,28,14.0,1,5
+Agustín Canobbio Graviz,Uruguay,36666.0,0,1,5,1,1,0.0,5.0,1.0,1.0,7,7.0,0,1
+Ahmed Alaa Eldin Abdelmotaal,Qatar,124490.0,0,1,0,0,0,0.0,0.0,0.0,0.0,0,0.0,0,0
+Alan Steven Franco Palma,Ecuador,37945.0,0,2,10,1,0,0.0,5.0,0.5,0.0,11,5.5,0,2
+Abdul Rahman Baba,Ghana,12325.0,0,3,70,6,1,0.0,23.33,2.0,0.33,77,25.67,0,13
+Ardon Jashari,Switzerland,41655.0,0,1,5,0,0,0.0,5.0,0.0,0.0,5,5.0,0,0
+André Miguel Valente Silva,Portugal,5218.0,0,1,10,1,0,0.0,10.0,1.0,0.0,11,11.0,0,2
+André Onana,Cameroon,8064.0,0,1,44,3,0,0.0,44.0,3.0,0.0,47,47.0,0,7
+Anssumane Fati,Spain,30756.0,0,2,24,2,1,0.0,12.0,1.0,0.5,27,13.5,0,4
+Anthony Daniel Contreras Enríquez,Costa Rica,132296.0,0,3,17,6,2,0.0,5.67,2.0,0.67,25,8.33,1,7
+Anass Zaroury,Morocco,131037.0,0,1,10,1,0,0.0,10.0,1.0,0.0,11,11.0,0,2
+Andries Noppert,Netherlands,8326.0,0,5,157,26,0,0.0,31.4,5.2,0.0,183,36.6,0,41
+Alireza Safar Beiranvand,Iran,5227.0,0,2,21,1,0,0.0,10.5,0.5,0.0,22,11.0,0,3
+Shūichi Gonda,Japan,25719.0,0,4,69,14,0,0.0,17.25,3.5,0.0,83,20.75,0,20
+Simon Thorup Kjær,Denmark,5534.0,0,1,50,3,0,0.0,50.0,3.0,0.0,53,53.0,0,8
+Sorba Thomas,Wales,50528.0,0,1,3,1,0,0.0,3.0,1.0,0.0,4,4.0,0,1
+Ángel Martín Correa,Argentina,6377.0,0,1,4,0,1,0.0,4.0,0.0,1.0,5,5.0,0,0
+Érick Gabriel Gutiérrez Galaviz,Mexico,15872.0,0,1,25,1,3,0.0,25.0,1.0,3.0,29,29.0,1,3
+Éverton Augusto de Barros Ribeiro,Brazil,25154.0,0,1,15,1,0,0.0,15.0,1.0,0.0,16,16.0,0,2
+Óscar Esau Duarte Gaitán,Costa Rica,5598.0,0,3,68,11,0,0.0,22.67,3.67,0.0,79,26.33,0,17
+Abdul Fatawu Issahaku,Ghana,136306.0,0,1,0,0,0,0.0,0.0,0.0,0.0,0,0.0,0,0
+Youssoufa Moukoko,Germany,38837.0,0,1,2,0,0,0.0,2.0,0.0,0.0,2,2.0,0,0
+Youstin Delfin Salas Gómez,Costa Rica,132756.0,0,2,15,3,0,0.0,7.5,1.5,0.0,18,9.0,0,4
+Yu-Min Cho,South Korea,99479.0,0,1,0,0,0,0.0,0.0,0.0,0.0,0,0.0,0,0
+Yuto Nagatomo,Japan,5690.0,0,4,81,9,1,0.0,20.25,2.25,0.25,91,22.75,0,17
+Yassine Bounou,Morocco,6785.0,0,6,156,25,1,0.0,26.0,4.17,0.17,182,30.33,0,40
+Youri Tielemans,Belgium,2954.0,0,3,51,2,1,0.0,17.0,0.67,0.33,54,18.0,0,7
+Xavi Simons,Netherlands,39167.0,0,1,6,2,1,0.0,6.0,2.0,1.0,9,9.0,0,2
+William Saliba,France,17592.0,0,1,37,4,0,0.0,37.0,4.0,0.0,41,41.0,0,7
+Mathew Ryan,Australia,3240.0,0,4,112,20,1,0.0,28.0,5.0,0.25,133,33.25,0,31
+Matthew Charles Turner,United States,12352.0,0,4,98,17,4,0.0,24.5,4.25,1.0,119,29.75,2,26
+Matthias Ginter,Germany,8808.0,0,1,3,0,0,0.0,3.0,0.0,0.0,3,3.0,0,0
+Matthijs de Ligt,Netherlands,8069.0,0,2,40,2,1,0.0,20.0,1.0,0.5,43,21.5,0,6
+Marten de Roon,Netherlands,6994.0,0,5,99,3,0,0.0,19.8,0.6,0.0,102,20.4,0,12
+Djorkaeff Neicer Reasco González,Ecuador,91090.0,0,1,3,0,0,0.0,3.0,0.0,0.0,3,3.0,0,0
+Dominik Livaković,Croatia,16531.0,0,7,189,33,0,0.0,27.0,4.71,0.0,222,31.71,0,51
+Gregor Kobel,Switzerland,17974.0,0,1,19,5,0,0.0,19.0,5.0,0.0,24,24.0,0,6
+Gaël Ondoua,Cameroon,28966.0,0,2,17,7,1,0.0,8.5,3.5,0.5,25,12.5,0,8
+Ghilane Chalali,Tunisia,6347.0,0,1,4,1,0,0.0,4.0,1.0,0.0,5,5.0,0,1
+Gideon Mensah,Ghana,23615.0,0,1,35,7,0,0.0,35.0,7.0,0.0,42,42.0,0,10
+Francisco Guillermo Ochoa Magaña,Mexico,5577.0,0,3,90,17,1,0.0,30.0,5.67,0.33,108,36.0,0,26
+Fábio Henrique Tavares,Brazil,3247.0,0,1,50,2,0,0.0,50.0,2.0,0.0,52,52.0,0,7
+Lukas Klostermann,Germany,8507.0,0,2,46,1,0,0.0,23.0,0.5,0.0,47,23.5,0,5
+Manuel Neuer,Germany,5570.0,0,3,111,9,0,0.0,37.0,3.0,0.0,120,40.0,0,20
+Mohammad Hossein Kanani Zadegan,Iran,124175.0,0,2,8,0,1,0.0,4.0,0.0,0.5,9,4.5,0,0
+Mohammed Khalil Al Owais,Saudi Arabia,5714.0,0,3,53,15,3,0.0,17.67,5.0,1.0,71,23.67,1,20
+Milad Mohammadi,Iran,5720.0,0,3,46,4,1,0.0,15.33,1.33,0.33,51,17.0,0,8
+Milan Borjan,Canada,15958.0,0,3,75,19,0,0.0,25.0,6.33,0.0,94,31.33,0,26
+Milos Veljkovic,Serbia,6321.0,0,3,99,4,0,0.0,33.0,1.33,0.0,103,34.33,0,13
+Miloš Degenek,Australia,15957.0,0,4,69,7,7,0.0,17.25,1.75,1.75,83,20.75,3,13
+Mohamed Ali Ben Romdhane,Tunisia,102816.0,0,1,14,8,2,0.0,14.0,8.0,2.0,24,24.0,1,9
+Meshaal Aissa Barsham,Qatar,124510.0,0,2,44,8,0,0.0,22.0,4.0,0.0,52,26.0,0,12
+Michel Aebischer,Switzerland,16016.0,0,1,2,0,0,0.0,2.0,0.0,0.0,2,2.0,0,0
+Miki Yamane,Japan,37209.0,0,1,25,3,1,0.0,25.0,3.0,1.0,29,29.0,0,5
+Mikkel Damsgaard,Denmark,24443.0,0,3,57,7,1,0.0,19.0,2.33,0.33,65,21.67,0,12
+Mattéo Guendouzi Olié,France,7345.0,0,1,28,5,1,0.0,28.0,5.0,1.0,34,34.0,0,7
+Damian Szymański,Poland,8714.0,0,1,9,0,0,0.0,9.0,0.0,0.0,9,9.0,0,0
+Damián Emiliano Martínez,Argentina,6909.0,0,7,123,30,1,0.0,17.57,4.29,0.14,154,22.0,0,42
+Daniel Alonso Chacón Salas,Costa Rica,132772.0,0,1,1,0,0,0.0,1.0,0.0,0.0,1,1.0,0,0
+Fabian Frei,Switzerland,8561.0,0,2,9,1,0,0.0,4.5,0.5,0.0,10,5.0,0,1
+Fabian Rieder,Switzerland,50436.0,0,2,14,5,2,0.0,7.0,2.5,1.0,21,10.5,1,6
+Enzo Ebosse,Cameroon,7551.0,0,1,34,1,0,0.0,34.0,1.0,0.0,35,35.0,0,4
+Eray Ervin Cömert,Switzerland,29012.0,0,2,37,3,1,0.0,18.5,1.5,0.5,41,20.5,0,6
+Eric Dier,England,10956.0,0,2,40,3,0,0.0,20.0,1.5,0.0,43,21.5,0,7
+Ederson Santana de Moraes,Brazil,3067.0,0,1,28,10,0,0.0,28.0,10.0,0.0,38,38.0,0,12
+Edouard Mendy,Senegal,7379.0,0,4,90,16,0,0.0,22.5,4.0,0.0,106,26.5,0,25
+Eduardo Camavinga,France,24778.0,0,2,91,12,7,0.0,45.5,6.0,3.5,110,55.0,3,21
+Diogo Meireles Costa,Portugal,32975.0,0,5,111,16,0,0.0,22.2,3.2,0.0,127,25.4,0,27
+Matías Nicolás Viña Susperreguy,Uruguay,34476.0,0,2,12,2,0,0.0,6.0,1.0,0.0,14,7.0,0,3
+Nico Schlotterbeck,Germany,24118.0,0,2,112,8,1,0.0,56.0,4.0,0.5,121,60.5,0,19
+Nicola Zalewski,Poland,50502.0,0,2,16,2,2,0.0,8.0,1.0,1.0,20,10.0,1,3
+Nicolas Jackson,Senegal,50497.0,0,1,9,2,0,0.0,9.0,2.0,0.0,11,11.0,0,2
+Nicolas Moumi Ngamaleu,Cameroon,16015.0,0,2,21,5,5,0.0,10.5,2.5,2.5,31,15.5,2,7
+Nemanja Gudelj,Serbia,16489.0,0,2,46,3,0,0.0,23.0,1.5,0.0,49,24.5,0,7
+Nemanja Maksimović,Serbia,6901.0,0,3,51,5,1,0.0,17.0,1.67,0.33,57,19.0,0,10
+Nicholas Williams Arthuer,Spain,68574.0,0,4,52,7,3,0.0,13.0,1.75,0.75,62,15.5,1,12
+Nasser Al Dawsari,Saudi Arabia,74623.0,0,1,10,1,0,0.0,10.0,1.0,0.0,11,11.0,0,2
+Nathan Aké,Netherlands,3306.0,0,5,319,12,6,0.0,63.8,2.4,1.2,337,67.4,3,43
+Nathaniel Atkinson,Australia,33572.0,0,1,30,4,0,0.0,30.0,4.0,0.0,34,34.0,0,7
+Mohammed Waed Abdulwahhab Al Bayati,Qatar,124909.0,0,2,9,0,0,0.0,4.5,0.0,0.0,9,4.5,0,0
+Bryan Oviedo,Costa Rica,5836.0,0,3,68,7,4,0.0,22.67,2.33,1.33,79,26.33,2,13
+Bryan Ruiz González,Costa Rica,5592.0,0,1,8,1,1,0.0,8.0,1.0,1.0,10,10.0,0,1
+Callum Wilson,England,3616.0,0,2,9,3,2,0.0,4.5,1.5,1.0,14,7.0,1,3
+Cameron Carter-Vickers,United States,15971.0,0,1,50,2,1,0.0,50.0,2.0,1.0,53,53.0,0,7
+Carlos Alberto Rodríguez Gómez,Mexico,26297.0,0,2,20,4,1,0.0,10.0,2.0,0.5,25,12.5,0,6
+DeAndre Yedlin,United States,3658.0,0,2,20,1,0,0.0,10.0,0.5,0.0,21,10.5,0,3
+Declan Rice,England,3943.0,0,5,306,20,2,0.0,61.2,4.0,0.4,328,65.6,1,50
+Lucas Daniel Cavallini,Canada,26348.0,0,1,3,0,0,0.0,3.0,0.0,0.0,3,3.0,0,0
+Lucas Hernández Pi,France,5484.0,0,1,6,1,0,0.0,6.0,1.0,0.0,7,7.0,0,1
+Lawrence Ati-Zigi,Ghana,8108.0,0,3,51,8,0,0.0,17.0,2.67,0.0,59,19.67,0,13
+Leandro Trossard,Belgium,16559.0,0,3,43,7,4,0.0,14.33,2.33,1.33,54,18.0,2,11
+Liam Millar,Canada,23363.0,0,1,5,0,0,0.0,5.0,0.0,0.0,5,5.0,0,0
+Kye Rowles,Australia,33495.0,0,4,170,4,2,0.0,42.5,1.0,0.5,176,44.0,1,21
+Kyle Walker,England,3205.0,0,3,159,8,3,0.0,53.0,2.67,1.0,170,56.67,1,23
+Kevin Nahin Álvarez Campos,Mexico,30500.0,0,2,18,2,1,0.0,9.0,1.0,0.5,21,10.5,0,3
+Filip Đuričić,Serbia,7117.0,0,2,5,0,1,0.0,2.5,0.0,0.5,6,3.0,0,0
+Fodé Ballo Touré,Senegal,3675.0,0,1,6,0,0,0.0,6.0,0.0,0.0,6,6.0,0,0
+Homam Alamin Ahmed,Qatar,124900.0,0,3,77,9,7,0.0,25.67,3.0,2.33,93,31.0,3,16
+Hugo Lloris,France,3099.0,0,6,111,16,1,0.0,18.5,2.67,0.17,128,21.33,0,27
+Héctor Miguel Herrera López,Mexico,5575.0,0,2,63,8,1,0.0,31.5,4.0,0.5,72,36.0,0,14
+Ikoma Loïs Openda,Belgium,16275.0,0,1,3,2,1,0.0,3.0,2.0,1.0,6,6.0,0,2
+Ilias Chair,Morocco,21214.0,0,1,13,0,0,0.0,13.0,0.0,0.0,13,13.0,0,1
+Hernán Ismael Galíndez,Ecuador,37522.0,0,3,44,13,0,0.0,14.67,4.33,0.0,57,19.0,0,17
+Hiroki Ito,Japan,95272.0,0,1,58,1,0,0.0,58.0,1.0,0.0,59,59.0,0,6
+Hassan Mohammed Al-Tambakti,Saudi Arabia,51546.0,0,2,37,4,5,0.0,18.5,2.0,2.5,46,23.0,2,7
+Hattan Babhir,Saudi Arabia,5188.0,0,2,3,1,0,0.0,1.5,0.5,0.0,4,2.0,0,1
+Keylor Navas Gamboa,Costa Rica,5597.0,0,3,55,19,0,0.0,18.33,6.33,0.0,74,24.67,0,24
+Denis Odoi,Ghana,12259.0,0,1,2,0,0,0.0,2.0,0.0,0.0,2,2.0,0,0
+Devis Rogers Epassy Mboka,Cameroon,15326.0,0,2,56,13,1,0.0,28.0,6.5,0.5,70,35.0,0,18
+Danny Ward,Wales,9914.0,0,2,24,3,0,0.0,12.0,1.5,0.0,27,13.5,0,5
+David Raum,Germany,12034.0,0,3,151,10,3,0.0,50.33,3.33,1.0,164,54.67,1,25
+David Wotherspoon,Canada,9036.0,0,1,3,0,1,0.0,3.0,0.0,1.0,4,4.0,0,0
+Dayotchanculle Upamecano,France,8519.0,0,5,305,17,3,0.0,61.0,3.4,0.6,325,65.0,1,47
+Daniel Amartey,Ghana,3709.0,0,3,129,12,1,0.0,43.0,4.0,0.33,142,47.33,0,24
+Daniel Carvajal Ramos,Spain,5721.0,0,2,122,9,2,0.0,61.0,4.5,1.0,133,66.5,1,21
+Daniel James,Wales,11252.0,0,3,23,4,2,0.0,7.67,1.33,0.67,29,9.67,1,6
+Daniel-Kofi Kyereh,Ghana,28616.0,0,3,18,2,0,0.0,6.0,0.67,0.0,20,6.67,0,3
+Danilo Luís Hélio Pereira,Portugal,13621.0,0,1,72,6,2,0.0,72.0,6.0,2.0,80,80.0,1,13
+César Azpilicueta Tanco,Spain,3957.0,0,2,169,2,0,0.0,84.5,1.0,0.0,171,85.5,0,18
+Moon-Hwan Kim,South Korea,40672.0,0,4,205,19,0,0.0,51.25,4.75,0.0,224,56.0,0,39
+Mosaab Khoder Jibril,Qatar,124512.0,0,1,3,0,1,0.0,3.0,0.0,1.0,4,4.0,0,0
+Munir Mohand Mohamedi,Morocco,5233.0,0,1,18,5,0,0.0,18.0,5.0,0.0,23,23.0,0,6
+Nader Ghandri,Tunisia,25582.0,0,1,27,2,1,0.0,27.0,2.0,1.0,30,30.0,0,4
+Piero Martín Hincapié Reyna,Ecuador,38004.0,0,3,171,8,1,0.0,57.0,2.67,0.33,180,60.0,0,25
+Predrag Rajković,Serbia,15731.0,0,1,0,0,0,0.0,0.0,0.0,0.0,0,0.0,0,0
+Pape Abou Cissé,Senegal,15970.0,0,3,30,1,0,0.0,10.0,0.33,0.0,31,10.33,0,4
+Pau Francisco Torres,Spain,6892.0,0,1,171,5,0,0.0,171.0,5.0,0.0,176,176.0,0,22
+Pedro González López,Spain,30486.0,0,4,395,29,6,0.0,98.75,7.25,1.5,430,107.5,3,68
+Néstor Alejandro Araújo Razo,Mexico,11388.0,0,1,47,6,0,0.0,47.0,6.0,0.0,53,53.0,0,10
+Noa Lang,Netherlands,21547.0,0,1,0,1,0,0.0,0.0,1.0,0.0,1,1.0,0,1
+Nouhou Tolo,Cameroon,13454.0,0,3,81,8,2,0.0,27.0,2.67,0.67,91,30.33,1,16
+Nuno Mendes,Portugal,41092.0,0,1,30,0,2,0.0,30.0,0.0,2.0,32,32.0,1,3
+Ronald Alberto Matarrita Ulate,Costa Rica,15477.0,0,2,20,2,1,0.0,10.0,1.0,0.5,23,11.5,0,4
+Riyadh Sharahili,Saudi Arabia,51470.0,0,1,17,7,0,0.0,17.0,7.0,0.0,24,24.0,0,8
+Roan Roberto Wilson Gordon,Costa Rica,135271.0,0,1,6,1,0,0.0,6.0,1.0,0.0,7,7.0,0,1
+Robert Skov,Denmark,16294.0,0,1,16,2,0,0.0,16.0,2.0,0.0,18,18.0,0,3
+Roberto Carlos Alvarado Hernández,Mexico,26375.0,0,1,5,1,0,0.0,5.0,1.0,0.0,6,6.0,0,1
+Rasmus Nissen Kristensen,Denmark,16190.0,0,3,139,4,1,0.0,46.33,1.33,0.33,144,48.0,0,17
+Raúl Alonso Jiménez Rodríguez,Mexico,5568.0,0,3,19,4,1,0.0,6.33,1.33,0.33,24,8.0,0,5
+Renato Steffen,Switzerland,12326.0,0,1,12,1,1,0.0,12.0,1.0,1.0,14,14.0,0,2
+Ricardo Iván Rodríguez Araya,Switzerland,5544.0,0,4,172,12,3,0.0,43.0,3.0,0.75,187,46.75,1,29
+Assim Omer Al Haj Madibo,Qatar,124500.0,0,2,62,10,1,0.0,31.0,5.0,0.5,73,36.5,0,16
+Awer Mabil,Australia,24475.0,0,2,10,0,0,0.0,5.0,0.0,0.0,10,5.0,0,1
+Chul Hong,South Korea,5986.0,0,1,17,3,0,0.0,17.0,3.0,0.0,20,20.0,0,4
+Connor Roberts,Wales,4774.0,0,3,92,7,2,0.0,30.67,2.33,0.67,101,33.67,1,16
+Cristian Gabriel Romero,Argentina,20572.0,0,7,330,19,3,0.0,47.14,2.71,0.43,352,50.29,1,52
+Cheikhou Kouyaté,Senegal,3684.0,0,1,21,2,2,0.0,21.0,2.0,2.0,25,25.0,1,4
+Chris Mepham,Wales,4767.0,0,3,143,7,1,0.0,47.67,2.33,0.33,151,50.33,0,21
+Christian Mougang Bassogog,Cameroon,46903.0,0,1,5,0,1,0.0,5.0,0.0,1.0,6,6.0,0,0
+Christian Nørgaard,Denmark,7097.0,0,1,14,0,0,0.0,14.0,0.0,0.0,14,14.0,0,1
+Carlos Armando Gruezo Arboleda,Ecuador,12583.0,0,1,13,0,0,0.0,13.0,0.0,0.0,13,13.0,0,1
+Carlos Manuel Martínez Castro,Costa Rica,132271.0,0,1,10,2,0,0.0,10.0,2.0,0.0,12,12.0,0,3
+Celso Borges Mora,Costa Rica,5582.0,0,3,94,10,0,0.0,31.33,3.33,0.0,104,34.67,0,19
+Chang-Hoon Kwon,South Korea,3135.0,0,1,19,3,0,0.0,19.0,3.0,0.0,22,22.0,0,4
+Jamie MacLaren,Australia,9980.0,0,3,7,0,0,0.0,2.33,0.0,0.0,7,2.33,0,0
+Jan Bednarek,Poland,4626.0,0,1,6,2,0,0.0,6.0,2.0,0.0,8,8.0,0,2
+Jason Cummings,Australia,9430.0,0,1,4,1,0,0.0,4.0,1.0,0.0,5,5.0,0,1
+Joe Rodon,Wales,11250.0,0,3,147,5,1,0.0,49.0,1.67,0.33,153,51.0,0,19
+Johan Alberto Venegas Ulloa,Costa Rica,5595.0,0,1,11,2,1,0.0,11.0,2.0,1.0,14,14.0,0,3
+Karol Świderski,Poland,8836.0,0,1,7,2,1,0.0,7.0,2.0,1.0,10,10.0,0,2
+Kasper Schmeichel,Denmark,3815.0,0,3,72,15,0,0.0,24.0,5.0,0.0,87,29.0,0,22
+Kellyn Kai Perry-Acosta,United States,13035.0,0,2,10,1,0,0.0,5.0,0.5,0.0,11,5.5,0,2
+Kenneth Taylor,Netherlands,21879.0,0,1,9,0,0,0.0,9.0,0.0,0.0,9,9.0,0,0
+Kamil Grosicki,Poland,5667.0,0,1,4,0,0,0.0,4.0,0.0,0.0,4,4.0,0,0
+Karim Boudiaf,Qatar,124492.0,0,3,94,7,1,0.0,31.33,2.33,0.33,102,34.0,0,16
+Jun-Ho Son,South Korea,40558.0,0,3,56,3,0,0.0,18.67,1.0,0.0,59,19.67,0,8
+Jurriën David Norman Timber,Netherlands,21809.0,0,4,286,15,4,0.0,71.5,3.75,1.0,305,76.25,2,43
+Kalvin Phillips,England,4706.0,0,2,18,0,0,0.0,9.0,0.0,0.0,18,9.0,0,1
+Kamal Miller,Canada,23828.0,0,3,184,11,3,0.0,61.33,3.67,1.0,198,66.0,1,29
+João Mário Naval da Costa Eduardo,Portugal,4272.0,0,2,37,6,0,0.0,18.5,3.0,0.0,43,21.5,0,9
+Juan Marcos Foyth,Argentina,21081.0,0,1,3,0,0,0.0,3.0,0.0,0.0,3,3.0,0,0
+Charles De Ketelaere,Belgium,32688.0,0,1,3,0,1,0.0,3.0,0.0,1.0,4,4.0,0,0
+Sergio Rochet Álvarez,Uruguay,36710.0,0,3,53,11,0,0.0,17.67,3.67,0.0,64,21.33,0,16
+Seung-Gyu Kim,South Korea,37641.0,0,4,94,15,0,0.0,23.5,3.75,0.0,109,27.25,0,24
+Seyed Hossein Hosseini,Iran,125823.0,0,2,22,10,0,0.0,11.0,5.0,0.0,32,16.0,0,12
+Seyed Majid Hosseini,Iran,5228.0,0,3,89,20,1,0.0,29.67,6.67,0.33,110,36.67,0,28
+Sebastian Szymański,Poland,4664.0,0,2,27,5,3,0.0,13.5,2.5,1.5,35,17.5,1,7
+Salman Mohammed Al Faraj,Saudi Arabia,5178.0,0,1,10,3,0,0.0,10.0,3.0,0.0,13,13.0,0,4
+Sam Adekugbe,Canada,29758.0,0,3,62,5,0,0.0,20.67,1.67,0.0,67,22.33,0,11
+Sami Khalil Al Naji,Saudi Arabia,51632.0,0,1,15,3,0,0.0,15.0,3.0,0.0,18,18.0,0,4
+Samuel Yves Oum Gwet,Cameroon,8591.0,0,2,52,10,1,0.0,26.0,5.0,0.5,63,31.5,0,15
+Alisson Ramsés Becker,Brazil,5547.0,0,4,80,23,0,0.0,20.0,5.75,0.0,103,25.75,0,31
+Alvaro José Zamora Mata,Costa Rica,184468.0,0,1,5,0,0,0.0,5.0,0.0,0.0,5,5.0,0,0
+Boualem Khoukhi,Qatar,124493.0,0,3,167,16,7,0.0,55.67,5.33,2.33,190,63.33,3,32
+Brandon Aguilera Zamora,Costa Rica,108340.0,0,3,25,9,2,0.0,8.33,3.0,0.67,36,12.0,1,11
+Bartosz Bereszyński,Poland,5673.0,0,4,121,15,4,0.0,30.25,3.75,1.0,140,35.0,2,27
+Bassam Hisham Al Rawi,Qatar,124503.0,0,1,48,0,1,0.0,48.0,0.0,1.0,49,49.0,0,4
+Benjamin Pavard,France,5476.0,0,1,81,3,0,0.0,81.0,3.0,0.0,84,84.0,0,11
+Bilal El Khannous,Morocco,156734.0,0,1,20,1,1,0.0,20.0,1.0,1.0,22,22.0,0,3
+Ayase Ueda,Japan,38285.0,0,1,7,3,2,0.0,7.0,3.0,2.0,12,12.0,1,3
+Ismael Koné,Canada,133229.0,0,3,96,7,1,0.0,32.0,2.33,0.33,104,34.67,0,16
+Ivan Ilić,Serbia,30179.0,0,1,19,2,0,0.0,19.0,2.0,0.0,21,21.0,0,3
+Josip Šutalo,Croatia,37148.0,0,1,62,4,0,0.0,62.0,4.0,0.0,66,66.0,0,10
+José Andrés Guardado Hernández,Mexico,5563.0,0,1,11,1,0,0.0,11.0,1.0,0.0,12,12.0,0,2
+José Martín Cáceres Silva,Uruguay,5248.0,0,1,68,3,0,0.0,68.0,3.0,0.0,71,71.0,0,9
+Jorge Resurrección Merodio,Spain,5199.0,0,2,56,0,0,0.0,28.0,0.0,0.0,56,28.0,0,5
+Joseff Morrell,Wales,22074.0,0,2,12,5,1,0.0,6.0,2.5,0.5,18,9.0,0,6
+Jordan Morris,United States,23789.0,0,2,2,1,0,0.0,1.0,0.5,0.0,3,1.5,0,1
+Jordan Pickford,England,3468.0,0,5,126,16,0,0.0,25.2,3.2,0.0,142,28.4,0,28
+Jordan Veretout,France,7153.0,0,1,32,2,0,0.0,32.0,2.0,0.0,34,34.0,0,5
+Guido Rodríguez,Argentina,26404.0,0,1,54,1,0,0.0,54.0,1.0,0.0,55,55.0,0,6
+Guillermo Varela Olivera,Uruguay,5264.0,0,3,62,2,7,0.0,20.67,0.67,2.33,71,23.67,3,8
+Haitham Mohammed Asiri,Saudi Arabia,121539.0,0,1,1,0,0,0.0,1.0,0.0,0.0,1,1.0,0,0
+Hannibal Mejbri,Tunisia,50988.0,0,1,2,0,0,0.0,2.0,0.0,0.0,2,2.0,0,0
+Jeremy Doku,Belgium,23650.0,0,1,8,3,1,0.0,8.0,3.0,1.0,12,12.0,0,3
+Jerome Ngom Mbekeli,Cameroon,33813.0,0,1,1,0,0,0.0,1.0,0.0,0.0,1,1.0,0,0
+Jesus Ferreira,United States,22433.0,0,1,17,2,1,0.0,17.0,2.0,1.0,20,20.0,0,3
+Jhegson Sebastián Méndez Carabalí,Ecuador,23830.0,0,2,130,13,2,0.0,65.0,6.5,1.0,145,72.5,1,26
+Aymen Dahmen,Tunisia,105943.0,0,3,48,7,0,0.0,16.0,2.33,0.0,55,18.33,0,11
+Bailey Wright,Australia,22371.0,0,1,1,0,0,0.0,1.0,0.0,0.0,1,1.0,0,0
+Artur Jędrzejczyk,Poland,4685.0,0,1,4,0,0,0.0,4.0,0.0,0.0,4,4.0,0,0
+Saad Abdullah Al Sheeb,Qatar,124496.0,0,1,17,4,1,0.0,17.0,4.0,1.0,22,22.0,0,5
+Sadegh Moharrami,Iran,23538.0,0,1,19,4,0,0.0,19.0,4.0,0.0,23,23.0,0,5
+Thiago Ezequiel Almada,Argentina,28637.0,0,1,12,1,0,0.0,12.0,1.0,0.0,13,13.0,0,2
+Thibaut Courtois,Belgium,3509.0,0,3,109,12,0,0.0,36.33,4.0,0.0,121,40.33,0,22
+Thilo Kehrer,Germany,8511.0,0,1,21,3,0,0.0,21.0,3.0,0.0,24,24.0,0,5
+Thomas Delaney,Denmark,5527.0,0,1,26,3,0,0.0,26.0,3.0,0.0,29,29.0,0,5
+Takefusa Kubo,Japan,31090.0,0,2,7,5,2,0.0,3.5,2.5,1.0,14,7.0,1,5
+Takehiro Tomiyasu,Japan,23730.0,0,3,73,5,0,0.0,24.33,1.67,0.0,78,26.0,0,12
+Tarek Salman Salman,Qatar,124504.0,0,1,7,0,0,0.0,7.0,0.0,0.0,7,7.0,0,0
+Srđan Babić,Serbia,18737.0,0,1,11,0,0,0.0,11.0,0.0,0.0,11,11.0,0,1
+Stefan Mitrović,Serbia,10477.0,0,1,17,0,0,0.0,17.0,0.0,0.0,17,17.0,0,1
+Steve Mandanda,France,3543.0,0,1,18,7,0,0.0,18.0,7.0,0.0,25,25.0,0,8
+Steven de Sousa Vitoria,Canada,11846.0,0,3,160,11,6,0.0,53.33,3.67,2.0,177,59.0,3,27
+Shaquell Moore,United States,6806.0,0,2,14,1,0,0.0,7.0,0.5,0.0,15,7.5,0,2
+Thorgan Hazard,Belgium,5632.0,0,2,41,4,2,0.0,20.5,2.0,1.0,47,23.5,1,8
+Timothy Castagne,Belgium,6989.0,0,3,176,7,1,0.0,58.67,2.33,0.33,184,61.33,0,24
+Toby Alderweireld,Belgium,20005.0,0,3,244,8,0,0.0,81.33,2.67,0.0,252,84.0,0,32
+Antonee Robinson,United States,4614.0,0,4,175,31,1,0.0,43.75,7.75,0.25,207,51.75,0,48
+António João Pereira Albuquerque Tavares Silva,Portugal,143854.0,0,1,57,2,0,0.0,57.0,2.0,0.0,59,59.0,0,7
+Abdullah Mohammed Madu,Saudi Arabia,51103.0,0,1,4,2,0,0.0,4.0,2.0,0.0,6,6.0,0,2
+Weverton Pereira da Silva,Brazil,25101.0,0,1,4,0,0,0.0,4.0,0.0,0.0,4,4.0,0,0
+Abolfazl Jalali,Iran,326758.0,0,1,21,6,4,0.0,21.0,6.0,4.0,31,31.0,2,8
+Wayne Hennessey,Wales,3488.0,0,2,52,12,0,0.0,26.0,6.0,0.0,64,32.0,0,17
