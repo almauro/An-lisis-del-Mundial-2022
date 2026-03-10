@@ -1,6 +1,13 @@
+# requirements.txt para Streamlit Cloud
+# Todas las librerías necesarias para el proyecto
+
 streamlit
 pandas
 numpy
 matplotlib
+seaborn
 requests
+mplsoccer
 statsbombpy
+Pillow
+dataframe_image
