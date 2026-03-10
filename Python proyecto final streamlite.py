@@ -1328,8 +1328,8 @@ def mostrar_estadisticas(goles_messi, faltas_messi, pases_messi, df_messi_calor)
 
 
 #--------------------------------------------------------
-# Llamar función creación mapas 
-
+# Llamar función creación mapas de dispersión
+#---------------------------------------------------------
 # ============================================================================
 # 1️⃣ PRIMERO: Configurar matplotlib para emojis
 # ============================================================================
@@ -1616,39 +1616,11 @@ def graficar_dispersion_goles_reales_esperados(datos):
 # ============================================================================
 # 5️⃣ QUINTO: Preparación de datos (También es parte del cerebro)
 # ============================================================================
+
 @st.cache_data
 def cargar_y_preparar_datos():
-    """Carga y prepara los datos del Mundial 2022"""
-    # Cargar tus datos (ajusta la ruta según donde tengas el archivo)
-    df_mundial = pd.read_csv('datos_mundial.csv')
-    
-    # 1. Agrupamos TIROS
-    tiros = df_mundial[df_mundial['type'] == 'Shot'].groupby('player').agg({
-        'id': 'count',                 
-        'shot_statsbomb_xg': 'sum',    
-        'shot_outcome': lambda x: (x == 'Goal').sum() 
-    }).rename(columns={'id': 'tiros_totales', 'shot_statsbomb_xg': 'xg_total', 'shot_outcome': 'goles'})
-
-    # 2. Agrupamos PASES
-    pases = df_mundial[df_mundial['type'] == 'Pass'].groupby('player').agg({
-        'id': 'count',   
-        'pass_outcome': lambda x: x.isna().sum() 
-    }).rename(columns={'id': 'pases_totales', 'pass_outcome': 'pases_completos'})
-    pases['pct_pases'] = (pases['pases_completos'] / pases['pases_totales']) * 100
-
-    # 3. Agrupamos DEFENSA
-    intercepciones = df_mundial[df_mundial['type'] == 'Interception'].groupby('player')['id'].count()
-    faltas = df_mundial[df_mundial['type'] == 'Foul Committed'].groupby('player')['id'].count()
-
-    # 4. Unimos todo
-    df_resumen = pd.concat([tiros, pases], axis=1).fillna(0)
-    df_resumen['intercepciones'] = intercepciones
-    df_resumen['faltas'] = faltas
-    df_resumen = df_resumen.fillna(0)
-
-    # 5. Filtro de calidad
-    df_resumen = df_resumen[(df_resumen['tiros_totales'] > 5) | (df_resumen['pases_totales'] > 50)]
-    
+    """Carga datos_mundial.csv (datos YA PROCESADOS)"""
+    df_resumen = pd.read_csv('datos_mundial.csv', index_col=0)
     return df_resumen
 
 #                               ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -3858,4 +3830,5 @@ elif opcion == "6 Análisis completo del mundial 2022":
 
     # Pie de página
     st.markdown("---")
+
     st.caption("📊 Datos fuente: StatsBomb | Jugadores destacados: Messi, Mbappé, Álvarez, Modrić")
