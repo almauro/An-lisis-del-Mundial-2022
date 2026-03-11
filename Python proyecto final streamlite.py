@@ -409,8 +409,8 @@ def generar_red_pases(datos, color_nodo, color_borde, color_flecha, color_borde_
     # --- Título y leyenda ---
     ax.set_title(
         f" Red de pases: {nombre_equipo}\nvs Oponente (Mundial 2022)",
-        fontsize=14, backgroundcolor='black', color='black', pad=10, fontweight='bold',
-        path_effects=[path_effects.withStroke(linewidth=2, foreground='white')]
+        fontsize=14, backgroundcolor='black', color='red', pad=10, fontweight='bold',
+        path_effects=[path_effects.withStroke(linewidth=1, foreground='white')]
     )
     ax.legend(loc='upper left', fontsize=10, frameon=True, facecolor='black', labelcolor='white')
     
@@ -800,7 +800,7 @@ def generar_red_pases(datos, color_nodo, color_borde, color_flecha, color_borde_
     ax.set_title(
         f"Red de pases: {nombre_equipo}\nvs Oponente (Mundial 2022)",
         fontsize=14, backgroundcolor='black', color='white', pad=5,
-        path_effects=[path_effects.withStroke(linewidth=2, foreground='yellow')]
+        path_effects=[path_effects.withStroke(linewidth=1, foreground='red')]
     )
     ax.legend(loc='upper left', fontsize=10, frameon=True)
     
@@ -1645,9 +1645,9 @@ opcion = st.sidebar.radio(
 )
 
 st.sidebar.markdown(
-    "<div style='background-color:black; padding:10px; border-radius:8px'>"
+    "<div style='background-color:black;color:white; padding:10px; border-radius:8px'>"
     "📘 <b>Datos statsbom mundial 2022</b><br>"
-    "<i>por Mauricio Lozano</i>"
+    "<i style='color: #cccccc;'>por Mauricio Lozano</i>"
     "</div>",
     unsafe_allow_html=True
 )
@@ -3832,4 +3832,5 @@ elif opcion == "6 Análisis completo del mundial 2022":
     st.markdown("---")
 
     st.caption("📊 Datos fuente: StatsBomb | Jugadores destacados: Messi, Mbappé, Álvarez, Modrić")
+
 
