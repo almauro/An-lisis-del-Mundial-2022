@@ -62,7 +62,7 @@ st.set_page_config(
 #                                                                                           ===============Título Página===============
 #                                                                                           ===============             ===============
 st.markdown(
-    """<h1 style="text-align:center; color:yellow">⚽Análisis mundial 2022📊<br><span style="font-size: 0.8em;">Por Mauricio Lozano</span></h1>""",
+    """<h1 style="text-align:center;">⚽Análisis mundial 2022📊<br><span style="font-size: 0.8em; opacity:0.7;">Por Mauricio Lozano</span></h1>""",
     unsafe_allow_html=True)
 
 
@@ -1645,7 +1645,7 @@ opcion = st.sidebar.radio(
 )
 
 st.sidebar.markdown(
-    "<div style='background-color:blue; padding:10px; border-radius:8px'>"
+    "<div style='background-color:black; padding:10px; border-radius:8px'>"
     "📘 <b>Datos statsbom mundial 2022</b><br>"
     "<i>por Mauricio Lozano</i>"
     "</div>",
@@ -2097,7 +2097,7 @@ def mostrar_rankings_mundial_2022():
 #                                                                                                                                                        SECCIÓN 1: Obtener información del partido
 #                                                                                                                                                       ---------------------------------------------------------
 if opcion == "1 Obtener información del partido": #Hacemos el link con la  portada del proyecto.
-    st.markdown("""<h2 style="text-align:center;color:yellow;">💻1. Exploración de los juegos del mundial 2022 👇👇</h2>""", unsafe_allow_html=True)
+    st.markdown("""<h2 style="text-align:center;">💻1. Exploración de los juegos del mundial 2022 👇👇</h2>""", unsafe_allow_html=True)
     
     st.info(f" **Partidos disponibles:** {len(partidos)}") # Muestra la cantidad total de partidos disponibles en la base de datos
     Columnas_a_mostrar = ['competition','season', 'home_team', 'away_team', 'home_score', 'away_score']
@@ -2108,7 +2108,7 @@ if opcion == "1 Obtener información del partido": #Hacemos el link con la  port
 #                                                                                                                                                         SECCIÓN 1.1: Escudos
 #                                                                                                                                                        ---------------------------------------------------------
     st.markdown("---")
-    st.markdown("""<h2 style="text-align:center;color:yellow;">📊1.1 Juego Marruecos vs Portugal</h2>""", unsafe_allow_html=True)
+    st.markdown("""<h2 style="text-align:center;">📊1.1 Juego Marruecos vs Portugal</h2>""", unsafe_allow_html=True)
     #Meteré el escudo de Portugal para llamarlo en el dashboard
     Marruecos_Escudo_url = "https://i.pinimg.com/736x/0d/21/bb/0d21bb56591cfc6f248daf74f7c9e071.jpg"
     Portugal_Escudo_url = "https://i.pinimg.com/1200x/2e/d4/06/2ed4060c70ab6fb46213359e4e7e45dd.jpg"
@@ -2175,7 +2175,7 @@ if opcion == "1 Obtener información del partido": #Hacemos el link con la  port
 #=====                                       =====
     
     st.markdown("---")
-    st.markdown("""<h2 style="text-align:center;color:yellow"><span style="font-size:0.5em;">⚽ 🤌🥅</span>Recuento de acciones Gol y No Gol.</h2>""", unsafe_allow_html=True)
+    st.markdown("""<h2 style="text-align:center;"><span style="font-size:0.5em;">⚽ 🤌🥅</span>Recuento de acciones Gol y No Gol.</h2>""", unsafe_allow_html=True)
 
     # Usar SOLO un conjunto de columnas
     col_left, col_center, col_right = st.columns([1, 3, 1])
@@ -2257,7 +2257,7 @@ if opcion == "1 Obtener información del partido": #Hacemos el link con la  port
 #                                                                                                                                                               -------------------------------------------------------
 
     st.markdown("---")
-    st.markdown("""<h3 style="text-align:center;color:yellow">🗺️ Posiciones Iniciales en el Campo</h3>""", unsafe_allow_html=True)
+    st.markdown("""<h3 style="text-align:center;">🗺️ Posiciones Iniciales en el Campo</h3>""", unsafe_allow_html=True)
     # Crear el campo de juego
     pitch = Pitch(
         pitch_type='statsbomb',
@@ -2332,7 +2332,7 @@ if opcion == "1 Obtener información del partido": #Hacemos el link con la  port
 
 elif opcion == "2 Análisis estadístico del Juego Marruecos vs Portugal":
     
-    st.markdown("""<h2 style="text-align:center;color:yellow;">📊 Estadísticas del Partido</h2>""", unsafe_allow_html=True)
+    st.markdown("""<h2 style="text-align:center;">📊 Estadísticas del Partido</h2>""", unsafe_allow_html=True)
     
     # === OBTENER ESTADÍSTICAS (la función ya está definida arriba) ===
     estadisticas_mar = obtener_estadisticas(events, 'Morocco')
@@ -2367,7 +2367,7 @@ elif opcion == "2 Análisis estadístico del Juego Marruecos vs Portugal":
 #                                                                                                                                                               -------------------------------------------
     
     st.markdown("---")
-    st.markdown("""<h3 style="text-align:center;color:yellow;">⚽ Expected Goals (xG) por Equipo</h3>""", unsafe_allow_html=True)
+    st.markdown("""<h3 style="text-align:center;">⚽ Expected Goals (xG) por Equipo</h3>""", unsafe_allow_html=True)
 
 # Calcular xG por equipo
     shots = events[events['type'] == 'Shot']
@@ -3832,3 +3832,4 @@ elif opcion == "6 Análisis completo del mundial 2022":
     st.markdown("---")
 
     st.caption("📊 Datos fuente: StatsBomb | Jugadores destacados: Messi, Mbappé, Álvarez, Modrić")
+
