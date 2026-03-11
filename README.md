@@ -3,8 +3,13 @@ Esta app es una presentación tomando bases de datos de statsbomb
 
 👉 Ver la app en vivo
 
-Tecnologías
-Python
-Pandas
+streamlit
+pandas
 numpy
-Streamlit
+matplotlib
+seaborn
+requests
+mplsoccer
+statsbombpy
+Pillow
+dataframe_image
