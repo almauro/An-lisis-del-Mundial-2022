@@ -1629,10 +1629,11 @@ def cargar_y_preparar_datos():
 #                                                                                                ==========================================
 #                                                                                                4.  🧭 MENÚ DE NAVEGACIÓN (BARRA LATERAL)
 #                                                                                                ==========================================
-
+# --- Ocultar menú nativo de Streamlit ---
 st.markdown(
     """
     <style>
+    #MainMenu {visibility: hidden;} /* Oculta el menú nativo */
     .menu-button {
         position: fixed;
         top: 10px;
@@ -1643,13 +1644,19 @@ st.markdown(
         border-radius: 5px;
         cursor: pointer;
         z-index: 100;
+        font-weight: bold;
     }
     </style>
-    <div class="menu-button">Menú</div>
+    <div class="menu-button" onclick="document.querySelector('section[data-testid="stSidebar"]').classList.toggle('open')">
+        Menú 
+    </div>
     """,
     unsafe_allow_html=True
 )
-st.sidebar.title("📌 Menú de Navegación")
+
+# --- Sidebar personalizado ---
+#===========================================
+st.sidebar.title("📌 Menú ")
 opcion = st.sidebar.radio(
     "Selecciona una sección:",
     [
