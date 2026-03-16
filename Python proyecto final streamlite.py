@@ -62,7 +62,7 @@ st.set_page_config(
 #                                                                                           ===============Título Página===============
 #                                                                                           ===============             ===============
 st.markdown(
-    """<h1 style="text-align:center;">⚽Análisis mundial 2022📊<br><span style="font-size: 0.8em; opacity:0.7;">Por Mauricio Lozano</span></h1>""",
+    """<h1 style="text-align:center;">⚽Análisis mundial 2022📊<br><span style="font-size: 0.8em; opacity:0.7;">Por Mauricio Lozano</span><br> Presiona botón >> Menú</h1>""",
     unsafe_allow_html=True)
 
 
@@ -2332,8 +2332,7 @@ if opcion == "1 Obtener información del partido": #Hacemos el link con la  port
     st.pyplot(fig, use_container_width=True)
     plt.close(fig)
 
-    st.markdown("---")
-    st.markdown("""<h1 style="text-align:center;">📚 Presiona el botón >> para desplegar el Menú</h1>""", unsafe_allow_html=True)
+    
 
 #----------------------------------------
 # Llamar función Dashboard Messi
