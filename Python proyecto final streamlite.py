@@ -2332,6 +2332,9 @@ if opcion == "1 Obtener información del partido": #Hacemos el link con la  port
     st.pyplot(fig, use_container_width=True)
     plt.close(fig)
 
+    st.markdown("---")
+    st.markdown("""<h1 style="text-align:center;">📚 Presiona el botón >> para desplegar el Menú</h1>""", unsafe_allow_html=True)
+
 #----------------------------------------
 # Llamar función Dashboard Messi
 #----------------------------------------
