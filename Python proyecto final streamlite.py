@@ -62,7 +62,7 @@ st.set_page_config(
 #                                                                                           ===============Título Página===============
 #                                                                                           ===============             ===============
 st.markdown(
-    """<h1 style="text-align:center;">⚽Análisis mundial 2022📊<br><span style="font-size: 0.8em; opacity:0.7;">Por Mauricio Lozano</span><br> Presiona botón >> Menú</h1>""",
+    """<h1 style="text-align:center;">⚽Análisis mundial 2022📊<br><span style="font-size: 0.8em; opacity:0.7;">Por Mauricio Lozano</span><br> 👈Presiona >> Menú complementario</h1>""",
     unsafe_allow_html=True)
 
 
@@ -1637,13 +1637,13 @@ st.set_page_config(layout="wide")
 # --- MENÚ VISIBLE ARRIBA (Esto SÍ se ve en móvil) ---
 st.markdown("""
 <div style="background-color: #4CAF50; padding: 15px; border-radius: 10px; margin-bottom: 20px; text-align: center;">
-    <h3 style="color: white; margin: 0;">📌 MENÚ - TOCA PARA NAVEGAR</h3>
+    <h3 style="color: white; margin: 0;">📌 MENÚ - NAVEGA ENTRE LAS OPCIONES 👇</h3>
 </div>
 """, unsafe_allow_html=True)
 
 # --- Selectbox grande y visible ---
 opcion = st.selectbox(
-    "**Selecciona una opción:**",
+    "**Selecciona una opción: 👇👇**",
     [
         "1 Obtener información del partido",
         "2 Análisis estadístico del Juego Marruecos vs Portugal",
@@ -1662,7 +1662,6 @@ with st.sidebar:
 # --- Contenido ---
 st.divider()
 st.header(f"📊 {opcion}")
-st.write("Contenido aquí...")
 #=================================================================================================================
 
 #------------------------------------------------
