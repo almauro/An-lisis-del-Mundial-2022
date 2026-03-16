@@ -1630,55 +1630,110 @@ def cargar_y_preparar_datos():
 #                                                                                                4.  🧭 MENÚ DE NAVEGACIÓN (BARRA LATERAL)
 #                                                                                                ==========================================
 # --- Ocultar menú nativo de Streamlit ---
+
+# --- Configuración de la página (Opcional, para que se vea mejor en móvil) ---
+st.set_page_config(layout="wide", page_title="Análisis Mundial 2022")
+
+# --- 1. Lógica del Menú (Session State) ---
+# Esto recuerda si el usuario abrió el menú o no
+if 'menu_abierto' not in st.session_state:
+    st.session_state.menu_abierto = False
+
+def toggle_menu():
+    st.session_state.menu_abierto = not st.session_state.menu_abierto
+
+# --- 2. CSS Personalizado ---
+# Ocultamos elementos nativos molestos y damos estilo a nuestro botón
 st.markdown(
     """
     <style>
-    #MainMenu {visibility: hidden;} /* Oculta el menú nativo */
-    header [data-testid="collapsedControl"] {display: none;} /* Oculta los >> en los móviles */
+    /* Ocultar el menú de los 3 puntos nativo de Streamlit */
+    #MainMenu {visibility: hidden;}
     
-    .menu-button {
-        position: fixed;
-        top: 10px;
-        right: 10px;
+    /* Estilo para nuestro botón de menú personalizado */
+    .stButton > button {
+        width: 100%;
         background-color: #4CAF50;
         color: white;
-        padding: 8px 16px;
-        border-radius: 5px;
-        cursor: pointer;
-        z-index: 100;
         font-weight: bold;
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+    .stButton > button:hover {
+        background-color: #45a049;
+        color: white;
+    }
+    
+    /* Ocultar la sidebar en móviles si queremos forzar el uso del menú central, 
+       pero dejaremos la sidebar activa para escritorio */
+    @media (max-width: 768px) {
+        /* Aquí podrías ocultar la sidebar si prefieres, pero es mejor dejarla como respaldo */
     }
     </style>
-    <div class="menu-button" onclick="document.querySelector('section[data-testid=\\\"stSidebar\\\"]').classList.toggle('open')">
-        Menú
-    </div>
     """,
     unsafe_allow_html=True
 )
-# --- Sidebar personalizado ---
-#===========================================
-st.sidebar.title("📌 Menú ")
-opcion = st.sidebar.radio(
-    "Selecciona una sección:",
-    [
-        "1 Obtener información del partido",
-        "2 Análisis estadístico del Juego Marruecos vs Portugal",
-        "3 Mapas de equipos",
-        "4 Análisis individual del jugador",
-        "5 Dashboard del Partido",
-        "6 Análisis completo del mundial 2022",
 
+# --- 3. Botón de Menú Visible (Cabecera) ---
+# Creamos una columna para poner el botón arriba a la derecha o centrado
+col1, col2, col3 = st.columns([1, 6, 1])
+with col2:
+    # Este botón es muy visible y dice explícitamente "MENÚ"
+    if st.button("📂 ABRIR MENÚ DE NAVEGACIÓN", on_click=toggle_menu):
+        pass
 
-    ]
-)
+# --- 4. Lógica de Navegación ---
 
-st.sidebar.markdown(
-    "<div style='background-color:black;color:white; padding:10px; border-radius:8px'>"
-    "📘 <b>Datos statsbom mundial 2022</b><br>"
-    "<i style='color: #cccccc;'>por Mauricio Lozano</i>"
-    "</div>",
-    unsafe_allow_html=True
-)
+# Si el usuario está en móvil y pulsó el botón, mostramos el menú en el centro
+if st.session_state.menu_abierto:
+    st.markdown("### 📌 Selecciona una sección:")
+    
+    # Usamos un selectbox o radio buttons grandes en el centro para móvil
+    opcion = st.radio(
+        "Ir a:",
+        [
+            "1 Obtener información del partido",
+            "2 Análisis estadístico del Juego Marruecos vs Portugal",
+            "3 Mapas de equipos",
+            "4 Análisis individual del jugador",
+            "5 Dashboard del Partido",
+            "6 Análisis completo del mundial 2022",
+        ],
+        label_visibility="collapsed"
+    )
+    
+    # Botón para cerrar el menú una vez elegido
+    if st.button("Cerrar Menú"):
+        st.session_state.menu_abierto = False
+        st.rerun()
+        
+    st.divider() # Línea separadora
+
+else:
+    # Si el menú NO está abierto (o estamos en escritorio), usamos la Sidebar tradicional
+    with st.sidebar:
+        st.title("📌 Menú ")
+        opcion = st.radio(
+            "Selecciona una sección:",
+            [
+                "1 Obtener información del partido",
+                "2 Análisis estadístico del Juego Marruecos vs Portugal",
+                "3 Mapas de equipos",
+                "4 Análisis individual del jugador",
+                "5 Dashboard del Partido",
+                "6 Análisis completo del mundial 2022",
+            ]
+        )
+        
+        st.markdown(
+            "<div style='background-color:black;color:white; padding:10px; border-radius:8px; text-align:center;'>"
+            "📘 <b>Datos statsbom mundial 2022</b><br>"
+            "<i style='color: #cccccc;'>por Mauricio Lozano</i>"
+            "</div>",
+            unsafe_allow_html=True
+        )
 
 #------------------------------------------------
 # Llamar Función para analizar Inglaterra vs Iran
