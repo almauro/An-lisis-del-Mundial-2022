@@ -1634,6 +1634,8 @@ st.markdown(
     """
     <style>
     #MainMenu {visibility: hidden;} /* Oculta el menú nativo */
+    header [data-testid="collapsedControl"] {visibility: hidden;} /* Oculta los «» */
+    
     .menu-button {
         position: fixed;
         top: 10px;
@@ -1647,13 +1649,12 @@ st.markdown(
         font-weight: bold;
     }
     </style>
-    <div class="menu-button" onclick="document.querySelector('section[data-testid="stSidebar"]').classList.toggle('open')">
-        Menú 
+    <div class="menu-button" onclick="document.querySelector('section[data-testid=\\\"stSidebar\\\"]').classList.toggle('open')">
+        Menú
     </div>
     """,
     unsafe_allow_html=True
 )
-
 # --- Sidebar personalizado ---
 #===========================================
 st.sidebar.title("📌 Menú ")
