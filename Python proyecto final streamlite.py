@@ -1630,43 +1630,20 @@ def cargar_y_preparar_datos():
 #                                                                                                4.  🧭 MENÚ DE NAVEGACIÓN (BARRA LATERAL)
 #                                                                                                ==========================================
 # --- Ocultar menú nativo de Streamlit ---
+import streamlit as st
 
 st.set_page_config(layout="wide")
 
-# --- MENÚ PRINCIPAL VISIBLE (Funciona en móvil y PC) ---
+# --- MENÚ VISIBLE ARRIBA (Esto SÍ se ve en móvil) ---
 st.markdown("""
-<style>
-/* Ocultar menú nativo de Streamlit */
-#MainMenu {visibility: hidden;}
-footer {visibility: hidden;}
-
-/* Hacer el menú más visible */
-.menu-container {
-    background-color: #4CAF50;
-    padding: 15px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    text-align: center;
-}
-.menu-text {
-    color: white;
-    font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-</style>
-""", unsafe_allow_html=True)
-
-# --- Botón de menú siempre visible arriba ---
-st.markdown("""
-<div class="menu-container">
-    <div class="menu-text">📌 MENÚ DE NAVEGACIÓN</div>
+<div style="background-color: #4CAF50; padding: 15px; border-radius: 10px; margin-bottom: 20px; text-align: center;">
+    <h3 style="color: white; margin: 0;">📌 MENÚ - TOCA PARA NAVEGAR</h3>
 </div>
 """, unsafe_allow_html=True)
 
-# --- Opciones de navegación (selectbox grande y visible) ---
+# --- Selectbox grande y visible ---
 opcion = st.selectbox(
-    "👇 **Selecciona una sección:** (Toca aquí para ver el menú)",
+    "**Selecciona una opción:**",
     [
         "1 Obtener información del partido",
         "2 Análisis estadístico del Juego Marruecos vs Portugal",
@@ -1674,27 +1651,19 @@ opcion = st.selectbox(
         "4 Análisis individual del jugador",
         "5 Dashboard del Partido",
         "6 Análisis completo del mundial 2022",
-    ],
-    index=0
+    ]
 )
 
-# --- Sidebar como respaldo (opcional) ---
+# --- Sidebar (como respaldo opcional) ---
 with st.sidebar:
-    st.title("📌 Menú Alternativo")
-    st.write("Usa el menú de arriba para navegar")
-    
-    st.markdown(
-        "<div style='background-color:black;color:white; padding:10px; border-radius:8px; text-align:center;'>"
-        "📘 <b>Datos statsbom mundial 2022</b><br>"
-        "<i style='color: #cccccc;'>por Mauricio Lozano</i>"
-        "</div>",
-        unsafe_allow_html=True
-    )
+    st.title("Menú")
+    st.markdown("📘 **Datos statsbom mundial 2022**<br>*por Mauricio Lozano*", unsafe_allow_html=True)
 
-# --- Contenido según la opción seleccionada ---
+# --- Contenido ---
 st.divider()
 st.header(f"📊 {opcion}")
-st.write("Contenido de la sección seleccionada...")
+st.write("Contenido aquí...")
+#=================================================================================================================
 
 #------------------------------------------------
 # Llamar Función para analizar Inglaterra vs Iran
