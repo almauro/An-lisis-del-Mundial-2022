@@ -1634,7 +1634,7 @@ st.markdown(
     """
     <style>
     #MainMenu {visibility: hidden;} /* Oculta el menú nativo */
-    header [data-testid="collapsedControl"] {visibility: hidden;} /* Oculta los «» */
+    header [data-testid="collapsedControl"] {display: none;} /* Oculta los >> en los móviles */
     
     .menu-button {
         position: fixed;
