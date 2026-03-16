@@ -1629,6 +1629,26 @@ def cargar_y_preparar_datos():
 #                                                                                                ==========================================
 #                                                                                                4.  🧭 MENÚ DE NAVEGACIÓN (BARRA LATERAL)
 #                                                                                                ==========================================
+
+st.markdown(
+    """
+    <style>
+    .menu-button {
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        background-color: #4CAF50;
+        color: white;
+        padding: 8px 16px;
+        border-radius: 5px;
+        cursor: pointer;
+        z-index: 100;
+    }
+    </style>
+    <div class="menu-button">Menú</div>
+    """,
+    unsafe_allow_html=True
+)
 st.sidebar.title("📌 Menú de Navegación")
 opcion = st.sidebar.radio(
     "Selecciona una sección:",
